@@ -1,6 +1,20 @@
-****************
-Ракове / Шкафове
-****************
+*******
+Струнни
+*******
+
+Акустични китари
+================
+
+Електрически китари
+===================
+
+Бас китари
+==========
+
+Укалеле и др
+============
+
+****
 
 ..  image:: img/rumensuite500.png
    :height: 351px
@@ -9,7 +23,7 @@
    :alt: ENS logo
    :align: right
 
-Ракове
+Overview
 ========
  - Sex: Male
  - Born: 1985
@@ -23,8 +37,8 @@ System administrator with a wide breadth of experience in various OS, networking
 ENS is the Ethereum Name Service, a distributed, open, and extensible naming system based on the Ethereum blockchain.
 
 
-Шкафове
-=======
+Architecture
+=============
 
 ENS has two principal components: the registry, and resolvers.
 
@@ -50,8 +64,8 @@ Each record type - Ethereum address, Swarm content hash, and so forth - defines 
 
 .. _namehash:
 
-Самостоятелни Ефекти
-====================
+Namehash
+========
 
 Names in ENS are represented as 32 byte hashes, rather than as plain text. This simplifies processing and storage, while permitting arbitrary length domain names, and preserves the privacy of names onchain. The algorithm used to translate domain names into hashes is called namehash. Namehash is defined in EIP137_.
 
@@ -88,7 +102,7 @@ A sample implementation in Python is provided below.
         label, _, remainder = name.partition('.')
         return sha3(namehash(remainder) + sha3(label))
 
-Разработени Ефекти
+ENS on Ethereum
 ===============
 
 ENS is deployed on mainnet at 0x314159265dd8dbb310642f98f50c066173c1259b_, where users may register names under the eth TLD, which uses an auction based registrar.

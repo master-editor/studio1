@@ -11,8 +11,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 project = 'STUDIO 1'
 version = u'SOFIA'
-release = 'SOFIA'
-copyright = 'CBMAK 2017'
+release = 'latest'
+copyright = '2017, STUDIO1-SOFIA'
 author = 'Rumen Lishkov'
 
 #templates_path = ['_templates']
