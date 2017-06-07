@@ -37,7 +37,7 @@
   room/racks
 
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
   :caption: ЗВУКОЗАПИС
 
   recording/engeneers
