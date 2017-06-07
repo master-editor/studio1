@@ -14,8 +14,6 @@
 Укалеле и др
 ============
 
-****
-
 ..  image:: ../img/rumensuite500.png
    :height: 351px
    :width: 300px
