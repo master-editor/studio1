@@ -36,8 +36,15 @@
   room/workstation
   room/racks
 
+.. toctree::
+  :maxdepth: 1
+  :caption: ЗВУКОЗАПИС
 
-  ЗВУКОЗАПИС
+  recording/engeneers
+  recording/FAQ
+  recording/prices
+
+  
   ИНЖИНЕРИ
   ЦЕНИ
   РЪКОВОДСТВА
