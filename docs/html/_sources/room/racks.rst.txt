@@ -89,7 +89,7 @@ A sample implementation in Python is provided below.
         return sha3(namehash(remainder) + sha3(label))
 
 Разработени Ефекти
-===============
+==================
 
 ENS is deployed on mainnet at 0x314159265dd8dbb310642f98f50c066173c1259b_, where users may register names under the eth TLD, which uses an auction based registrar.
 
