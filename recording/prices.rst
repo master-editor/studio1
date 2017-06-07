@@ -1,5 +1,5 @@
 ****
-ЦЕНИ
+Цени
 ****
 
 .. csv-table:: Balance Sheet

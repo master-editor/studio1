@@ -41,7 +41,7 @@
   :caption: ЗВУКОЗАПИС
 
   recording/engeneers
-  recording/FAQ
+  recording/faq
   recording/prices
 
   
