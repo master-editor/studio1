@@ -1,3 +1,5 @@
+Студио 1 София
+##############
 ..  image:: img/studio1-logo.png
    :height: 351px
    :width: 300px
