@@ -8,32 +8,6 @@ EQ CAN BE USED FOR
 	-MAIN OUT INSERT
 	-MAIN INLINE
 
-CONNECT like INSERT ON CHANEL
-	 EQ-SIDE
-		INPUT -SEND
-		OUTPUT - RETURN
-			#JAK - TIP - input RING output
-	MIXER
-		INSERT
-TEST
-	MIXER
-		PFL ON
-CONNECT like GROUP INSERT
-	MIXER
-		INPUT GROUP 1
-
-
-	BENEFIT
-		 DRUMS/VOCAL - ANY
-		CLEAR - 20hz
-		BOOST vocal drums ec
-
-CONNECT like MAIN INSERT
-
-
-DONT DO!!!
-on stereo
-
 
 This user guide is intended for anyone wanting to register, configure, and update ENS names using a Javascript console and web3.js. Before starting, open up a geth console, download ensutils.js_ or `ensutils-ropsten.js`_ to your local machine, and import it into a running Ethereum console:
 

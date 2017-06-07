@@ -2,7 +2,7 @@
 Ракове / Шкафове
 ****************
 
-..  image:: img/rumensuite500.png
+..  image:: ../img/rumensuite500.png
    :height: 351px
    :width: 300px
    :scale: 50%

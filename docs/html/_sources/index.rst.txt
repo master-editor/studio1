@@ -33,7 +33,7 @@
   :caption: АПАРАТНА
 
   room/env
-  room/workstation
+  room/workstations
   room/racks
 
 .. toctree::
@@ -43,5 +43,3 @@
   recording/engeneers
   recording/faq
   recording/prices
-
-  

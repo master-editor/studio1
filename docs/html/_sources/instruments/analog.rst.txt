@@ -10,7 +10,7 @@
 
 Прослушване, подготовка, определяне на параметри, изравняване, филтриране, процесиране с ефекти, онлайн миксиране.
 
-..  image:: img/mixing.jpeg
+..  image:: ../img/mixing.jpeg
    :height: 171px
    :width: 171px
    :scale: 50%
@@ -29,7 +29,7 @@
 
 Баланс, компресиране, лимитиране, онлайн мастериране, финален мастеринг, творчество.
 
-..  image:: img/mastering.jpg
+..  image:: ../img/mastering.jpg
    :height: 171px
    :width: 171px
    :scale: 50%
@@ -43,7 +43,7 @@
 Аудио инженеринг, аудио колектинг, гласови и саунд ефекти,
 специални ефекти, ринг тонове, саунд брандиране.
 
-..  image:: img/amps.jpeg
+..  image:: ../img/amps.jpeg
    :height: 171px
    :width: 171px
    :scale: 50%
@@ -60,7 +60,7 @@
 Музикална продукция
 ===================
 
-..  image:: img/recording.jpeg
+..  image:: ../img/recording.jpeg
    :height: 171px
    :width: 171px
    :scale: 50%

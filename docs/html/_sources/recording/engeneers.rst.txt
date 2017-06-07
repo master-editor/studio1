@@ -13,7 +13,7 @@
  - Duty: DevOps / CI|CD / System Administrator
 
 
-..  image:: img/rumensuite500.png
+..  image:: ../img/rumensuite500.png
    :height: 100px
    :width: 80px
    :scale: 50%
