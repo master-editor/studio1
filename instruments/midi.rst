@@ -50,8 +50,8 @@ Each record type - Ethereum address, Swarm content hash, and so forth - defines 
 
 .. _namehash:
 
-Namehash
-========
+TEST
+====
 
 Names in ENS are represented as 32 byte hashes, rather than as plain text. This simplifies processing and storage, while permitting arbitrary length domain names, and preserves the privacy of names onchain. The algorithm used to translate domain names into hashes is called namehash. Namehash is defined in EIP137_.
 

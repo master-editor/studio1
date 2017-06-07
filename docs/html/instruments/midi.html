@@ -108,7 +108,7 @@
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Миди</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#overview">Overview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#architecture">Architecture</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#namehash">Namehash</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#test">TEST</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#terminology">Terminology</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#algorithm">Algorithm</a></li>
 </ul>
@@ -234,8 +234,8 @@ ENS is the Ethereum Name Service, a distributed, open, and extensible naming sys
 <p>Resolvers are responsible for the actual process of translating names into addresses. Any contract that implements the relevant standards may act as a resolver in ENS. General-purpose resolver implementations are offered for users whose requirements are straightforward, such as serving an infrequently changed address for a name.</p>
 <p>Each record type - Ethereum address, Swarm content hash, and so forth - defines a method or methods that a resolver must implement in order to provide records of that kind. New record types may be defined at any time via the EIP standardisation process, with no need to make changes to the ENS registry or to existing resolvers in order to support them.</p>
 </div>
-<div class="section" id="namehash">
-<span id="id2"></span><h2>Namehash<a class="headerlink" href="#namehash" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="test">
+<span id="namehash"></span><h2>TEST<a class="headerlink" href="#test" title="Permalink to this headline">¶</a></h2>
 <p>Names in ENS are represented as 32 byte hashes, rather than as plain text. This simplifies processing and storage, while permitting arbitrary length domain names, and preserves the privacy of names onchain. The algorithm used to translate domain names into hashes is called namehash. Namehash is defined in <a class="reference external" href="https://github.com/ethereum/EIPs/issues/137">EIP137</a>.</p>
 <p>In order to preserve the hierarchal nature of names, namehash is defined recursively, making it possible to derive the hash of a subdomain from the hash of the parent domain and the name or hash of the subdomain.</p>
 <div class="section" id="terminology">
