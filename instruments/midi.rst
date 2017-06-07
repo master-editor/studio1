@@ -48,7 +48,7 @@ Resolvers are responsible for the actual process of translating names into addre
 
 Each record type - Ethereum address, Swarm content hash, and so forth - defines a method or methods that a resolver must implement in order to provide records of that kind. New record types may be defined at any time via the EIP standardisation process, with no need to make changes to the ENS registry or to existing resolvers in order to support them.
 
-.. _namehash:
+.. :
 
 TEST
 ====
