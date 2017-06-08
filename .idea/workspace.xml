@@ -2,8 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fa3f3ac-c0f4-47a3-a8b0-e109cb2a91d6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/make.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/environment.pickle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/equipment/computer-systems.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/equipment/mixers-tracks.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/equipment/sound-systems.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/instruments/analog.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/instruments/brass.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/instruments/drums.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/instruments/keyboards.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/instruments/midi.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/instruments/strings.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/recording/engeneers.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/recording/faq.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/recording/prices.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/room/env.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/room/racks.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/room/workstations.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/.buildinfo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/amps.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/mastering.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/mixing.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/mixing1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/recording.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/rumensuite500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/rumensuite5001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/rumensuite5002.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/studio1-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/equipment/computer-systems.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/equipment/mixers-tracks.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/equipment/sound-systems.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/instruments/analog.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/instruments/brass.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/instruments/drums.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/instruments/keyboards.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/instruments/midi.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/instruments/strings.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/recording/engeneers.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/recording/faq.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/recording/prices.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/room/env.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/room/racks.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/room/workstations.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/basic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/comment-bright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/comment-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/badge_only.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/css/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/doctools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/down-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/Inconsolata-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/Inconsolata-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/Lato-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/Lato-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/RobotoSlab-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/RobotoSlab-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/jquery-3.1.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/js/modernizr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/searchtools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/underscore-1.3.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/up-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/websupport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/equipment/computer-systems.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/equipment/mixers-tracks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/equipment/sound-systems.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/genindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/instruments/analog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/instruments/brass.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/instruments/drums.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/instruments/keyboards.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/instruments/midi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/instruments/strings.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/objects.inv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/recording/engeneers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/recording/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/recording/prices.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/room/env.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/room/racks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/room/workstations.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/searchindex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/theme.css" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/html/_static/theme.css" afterPath="$PROJECT_DIR$/_static/css/theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/theme.css" afterPath="$PROJECT_DIR$/_static/css/theme.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Makefile" afterPath="$PROJECT_DIR$/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf.py" afterPath="$PROJECT_DIR$/conf.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,32 +115,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="conf.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/conf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="30" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>docs</find>
+      <find>_build</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -54,10 +134,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/conf.py" />
         <option value="$PROJECT_DIR$/index.rst" />
         <option value="$PROJECT_DIR$/РЪКОВОДСТВА.rst" />
         <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/conf.py" />
       </list>
     </option>
   </component>
@@ -99,20 +179,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studio1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="studio1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -123,6 +189,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_static/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -517,7 +588,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -541,7 +611,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13045794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13045794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -588,14 +658,6 @@
     <entry file="file://$PROJECT_DIR$/ОБОРУДВАНЕ.rst" />
     <entry file="file://$PROJECT_DIR$/РЪКОВОДСТВА.rst" />
     <entry file="file://$PROJECT_DIR$/ИНЖИНЕРИ.rst" />
-    <entry file="file://$PROJECT_DIR$/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/make.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -604,18 +666,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_static/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_static/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="30" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="315">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding />
         </state>
       </provider>

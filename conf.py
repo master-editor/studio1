@@ -16,7 +16,7 @@ copyright = '2017, STUDIO1-SOFIA'
 author = 'Rumen Lishkov'
 
 #templates_path = ['_templates']
-exclude_patterns = ['_build', '.idea', '.project', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'docs', '.idea', '.gitignore' '.project', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -26,7 +26,7 @@ todo_include_todos = True
 
 # -- Options for HTMLHelp output ------------------------------------------
 html_theme = 'sphinx_rtd_theme'
-html_static_path = ['static']
+html_static_path = ['_static']
 
 #html_theme_path = ["_themes", ]
 # Theme style override
