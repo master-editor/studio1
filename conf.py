@@ -26,7 +26,7 @@ todo_include_todos = True
 
 # -- Options for HTMLHelp output ------------------------------------------
 html_theme = 'sphinx_rtd_theme'
-html_static_path = ['_static']
+html_static_path = ['static']
 
 #html_theme_path = ["_themes", ]
 # Theme style override
