@@ -4,7 +4,7 @@
     <provider_name>toxitystudio.com</provider_name>
     <provider_url>http://toxitystudio.com</provider_url>
     <author_name>admin</author_name>
-    <author_url>http://toxitystudio.com/author/admin/</author_url>
+    <author_url>author/admin/</author_url>
     <title>&#x41A;&#x440;&#x430;&#x441;&#x438;&#x43C;&#x438;&#x440; &#x410;&#x432;&#x440;&#x430;&#x43C;&#x43E;&#x432; -
         Keep Control
     </title>
@@ -12,7 +12,7 @@
     <width>600</width>
     <height>338</height>
     <html>&lt;blockquote class="wp-embedded-content"&gt;&lt;a
-        href="http://toxitystudio.com/gallery/krassimir-avramov-keep-control/"&gt;&#x41A;&#x440;&#x430;&#x441;&#x438;&#x43C;&#x438;&#x440;
+        href="gallery/krassimir-avramov-keep-control/"&gt;&#x41A;&#x440;&#x430;&#x441;&#x438;&#x43C;&#x438;&#x440;
         &#x410;&#x432;&#x440;&#x430;&#x43C;&#x43E;&#x432; &#x2013; Keep Control&lt;/a&gt;&lt;/blockquote&gt;
         &lt;script type='text/javascript'&gt;
         &lt;!--//--&gt;&lt;![CDATA[//&gt;&lt;!--
@@ -24,7 +24,7 @@
         if(~~g&lt;200)g=200;f.height=g}if("link"===d.message)if(h=b.createElement("a"),i=b.createElement("a"),h.href=f.getAttribute("src"),i.href=d.value,i.host===h.host)if(b.activeElement===f)a.top.location.href=d.value}else;}},d)a.addEventListener("message",a.wp.receiveEmbedMessage,!1),b.addEventListener("DOMContentLoaded",c,!1),a.addEventListener("load",c,!1)}(window,document);
         //--&gt;&lt;!]]&gt;
         &lt;/script&gt;&lt;iframe sandbox="allow-scripts" security="restricted"
-        src="http://toxitystudio.com/gallery/krassimir-avramov-keep-control/embed/" width="600" height="338" title="&#x201C;&#x41A;&#x440;&#x430;&#x441;&#x438;&#x43C;&#x438;&#x440;
+        src="gallery/krassimir-avramov-keep-control/embed/" width="600" height="338" title="&#x201C;&#x41A;&#x440;&#x430;&#x441;&#x438;&#x43C;&#x438;&#x440;
         &#x410;&#x432;&#x440;&#x430;&#x43C;&#x43E;&#x432; &#x2013; Keep Control&#x201D; &#x2014; toxitystudio.com"
         frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="wp-embedded-content"&gt;&lt;/iframe&gt;
     </html>

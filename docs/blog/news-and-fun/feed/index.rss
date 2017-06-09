@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Интересно &#8211; toxitystudio.com</title>
-	<atom:link href="http://toxitystudio.com/blog/news-and-fun/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="blog/news-and-fun/feed/" rel="self" type="application/rss+xml" />
 	<link>http://toxitystudio.com</link>
 	<description>мастеринг, смесване на музика, звукозапис, запис на реклами</description>
 	<lastBuildDate>Sun, 23 Apr 2017 16:22:25 +0000</lastBuildDate>
@@ -20,15 +20,15 @@
 	<item>
 		<title>Roland Dimension D &#8211; сравнителни тестове в STUDIO1</title>
 		<link>http://afsbg.com/news-and-fun/rdd-comparative-tests/</link>
-		<comments>http://toxitystudio.com/news-and-fun/rdd-comparative-tests/#respond</comments>
+		<comments>news-and-fun/rdd-comparative-tests/#respond</comments>
 		<pubDate>Wed, 07 Dec 2016 08:36:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Интересно]]></category>
 		<category><![CDATA[сравнителни тестове]]></category>
 
-		<guid isPermaLink="false">http://toxitystudio.com/?p=3714</guid>
+		<guid isPermaLink="false">?p=3714</guid>
 		<description><![CDATA[<p>&#160; &#160; Това е вторият от тестовете, които направихме с колегите Явор Разбойников и Мартин Евстатиев в Студио 1. Този път сравнихме хардуерното устройство Roland Dimension D с  плъгина, съвместно създаден от Roland Corporation и Universal Audio &#8211; Roland Dimension D &#8211; UAD2 Plug-in. За целите на теста, използвахме разнообразен звуков материал – записи на електрическа...</p>
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/rdd-comparative-tests/">Roland Dimension D &#8211; сравнителни тестове в STUDIO1</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/rdd-comparative-tests/">Roland Dimension D &#8211; сравнителни тестове в STUDIO1</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<p>&nbsp;</p>
 <p><img class="wp-image-3758 aligncenter" src="http://afsbg.com/wp-content/uploads/2017/01/roland_dimd_hq-700x128-700x128.jpg" alt="roland_dimd" width="881" height="161" srcset="http://afsbg.com/wp-content/uploads/2017/01/roland_dimd_hq-700x128.jpg 700w, http://afsbg.com/wp-content/uploads/2017/01/roland_dimd_hq-700x128-150x27.jpg 150w" sizes="(max-width: 881px) 100vw, 881px" /></p>
@@ -338,7 +338,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">
+							<a class="img-zoom-hover" href="equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">
 								<img src="http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1-700x288.jpg" class="attachment-medium size-medium wp-post-image" alt="Skywalker Ranch and Capitol" srcset="http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1-700x288.jpg 700w, http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1-150x62.jpg 150w, http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -351,17 +351,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">Neve 88RS Channel Strip</a></h3>
+					<h3 class="blog-title"><a href="equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">Neve 88RS Channel Strip</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2017-04-21">април 21, 2017 11:55 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/#respond ">0 Comments</a>
+						/ <a href="equipment/neve-88rs-channel-strip-1/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; Серията 88 на Neve е образец за широко форматна конзола. Тя е въведена през 2001 година и е известна със своята зашеметяваща дълбочина и детайл. Тя е съчетава а в себе най-доброто от всичко, което Neve са направили преди това. Не случайно такива конзоли се намират в едни от най-добрите студия по света, като Skywalker, Ranch, Capitol...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/"
+											<a href="equipment/neve-88rs-channel-strip-1/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -383,7 +383,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/cubase-pro-9/" title="Cubase Pro 9">
+							<a class="img-zoom-hover" href="equipment/cubase-pro-9/" title="Cubase Pro 9">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px-700x258.png" class="attachment-medium size-medium wp-post-image" alt="cubase 9" srcset="http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px-700x258.png 700w, http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px-150x55.png 150w, http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px.png 960w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -396,17 +396,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/cubase-pro-9/" title="Cubase Pro 9">Cubase Pro 9</a></h3>
+					<h3 class="blog-title"><a href="equipment/cubase-pro-9/" title="Cubase Pro 9">Cubase Pro 9</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2017-03-04">март 4, 2017 8:10 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/cubase-pro-9/#respond ">0 Comments</a>
+						/ <a href="equipment/cubase-pro-9/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; Steinberg &#8211; Cubase Pro 9 Студио 1разполага с най- новата версия на софтуера на Steinberg &#8211; Cubase Pro 9. С този софтуер ние имаме опит още от далечната 1993 година. Версия 9 studio e съобразена с най-съвременните стандарти в музикалния звукозапис. Тази най-нова версия на софтуера, позволява студийното време да се използва изключително...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/cubase-pro-9/"
+											<a href="equipment/cubase-pro-9/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -428,7 +428,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">
+							<a class="img-zoom-hover" href="equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler-700x126.jpg" class="attachment-medium size-medium wp-post-image" alt="MXR Flanger Doubler UAD2 Plug-in" srcset="http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler-700x126.jpg 700w, http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler-150x27.jpg 150w, http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -441,17 +441,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">MXR Flanger Doubler</a></h3>
+					<h3 class="blog-title"><a href="equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">MXR Flanger Doubler</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2017-02-01">февруари 1, 2017 11:39 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/mxr-flanger-doubler/#respond ">0 Comments</a>
+						/ <a href="equipment/mxr-flanger-doubler/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; MXR Flanger Doubler UAD2 Plug-in вече е част от нашето оборудване. Той звучи невероятно. MXR Flanger Doubler е едно от най-добрите устройства от този тип, правени някога. Може да се използва както като класически фленджър, така и при дублиране на инструменти или вокали. Обработеният с него звуков материал чудесно се вписва в микса и има същият...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/mxr-flanger-doubler/"
+											<a href="equipment/mxr-flanger-doubler/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -473,7 +473,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">
+							<a class="img-zoom-hover" href="equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">
 								<img src="http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop-700x397.png" class="attachment-medium size-medium wp-post-image" alt="1176 Limiter Collection" srcset="http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop-700x397.png 700w, http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop-150x85.png 150w, http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop.png 767w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -486,17 +486,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">1176 Classic Limiter Collection</a></h3>
+					<h3 class="blog-title"><a href="equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">1176 Classic Limiter Collection</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-12-27">декември 27, 2016 12:16 am</time>
-						/ <a href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/#respond ">0 Comments</a>
+						/ <a href="equipment/1176-classic-limiter-collection/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Прототипът на Universal Audio 1176 е разраборен от Бил Путъм (Bill Putham) и представлява изключителен технологичен пробив. Това е първият ултра бърз транзисторен пик лимитер. Той е дал своя характер и пънч на много от най-емблематичните песни в историята. Universal Audio са моделирали трите модификации на този компресор &#8211; 1176 Rev A, 1176 Rev E и...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/"
+											<a href="equipment/1176-classic-limiter-collection/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -518,7 +518,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">
+							<a class="img-zoom-hover" href="equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_3_1.jpg" class="attachment-medium size-medium wp-post-image" alt="teletronix_la2a_collection" srcset="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_3_1.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_3_1-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -531,17 +531,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">LA2A Silver &#038; Grey</a></h3>
+					<h3 class="blog-title"><a href="equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">LA2A Silver &#038; Grey</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-12-16">декември 16, 2016 12:16 am</time>
-						/ <a href="http://toxitystudio.com/equipment/la2a-silver-grey/#respond ">0 Comments</a>
+						/ <a href="equipment/la2a-silver-grey/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; LA2A Silver &amp; Grey UAD-2 Plug-ins С полиран алуминиев панел и модул за редуциране на гейна (gain reduction) &#8211; T4B, LA2A версия &#8222;Silver&#8220; е създаден в края на шейсетте години от Бил Путъм (Bill Putham). Той е може би най-гъвкавия от трите опто компресора &#8211; LA2, LA2A Silver и LA2A &#8222;Gray&#8220;. Разработеният в средата на шейсетте...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/la2a-silver-grey/"
+											<a href="equipment/la2a-silver-grey/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -563,7 +563,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/teletronix-la2/" title="Teletronix LA2">
+							<a class="img-zoom-hover" href="equipment/teletronix-la2/" title="Teletronix LA2">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_4_1.jpg" class="attachment-medium size-medium wp-post-image" alt="teletronix_la2" srcset="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_4_1.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_4_1-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -576,17 +576,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/teletronix-la2/" title="Teletronix LA2">Teletronix LA2</a></h3>
+					<h3 class="blog-title"><a href="equipment/teletronix-la2/" title="Teletronix LA2">Teletronix LA2</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-12-04">декември 4, 2016 10:35 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/teletronix-la2/#respond ">0 Comments</a>
+						/ <a href="equipment/teletronix-la2/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Teletronix LA2 UAD Plug-in Създаден през далечната 1960 година, LA2 предхожда класическия компресор LA2A. Той реагира бавно на обработвания звуков материал и има изключително музикален звук, който се дължи на неговата уникална технологична архитектура. Това е измисленият преди повече от 50 години луминисцентен панел, който е вложен в неговия Т4 модул. LA2 може да работи много прозрачно, но...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/teletronix-la2/"
+											<a href="equipment/teletronix-la2/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -608,7 +608,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">
+							<a class="img-zoom-hover" href="equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/pultec_meq_5.jpg" class="attachment-medium size-medium wp-post-image" alt="pultec_meq_5" srcset="http://afsbg.com/wp-content/uploads/2017/02/pultec_meq_5.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/pultec_meq_5-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -621,17 +621,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">Pultec MEQ-5 &#8211; toxitystudio.com</a></h3>
+					<h3 class="blog-title"><a href="equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">Pultec MEQ-5 &#8211; toxitystudio.com</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-11-29">ноември 29, 2016 7:19 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/pultec-meq-5/#respond ">0 Comments</a>
+						/ <a href="equipment/pultec-meq-5/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Част от Pulted Passive EQ Collection на Universal Audio, обработващият средни честоти Pultec MEQ-5 е скъпо звучащ лампов еквалайзер. Той разполага с две ленти на усилване на средни честоти и една лента за намаляване. Подходящ е за корекции на инструменти в средния регистър като китари, вокали и други. С негова помощ инструментите могат да бъдат фиксирани и...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/pultec-meq-5/"
+											<a href="equipment/pultec-meq-5/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -653,7 +653,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">
+							<a class="img-zoom-hover" href="equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">
 								<img src="http://afsbg.com/wp-content/uploads/2016/11/smww-700x503.png" class="attachment-medium size-medium wp-post-image" alt="Sound Machine Wood Works UAD2 Plug-in" srcset="http://afsbg.com/wp-content/uploads/2016/11/smww-700x503.png 700w, http://afsbg.com/wp-content/uploads/2016/11/smww-150x108.png 150w, http://afsbg.com/wp-content/uploads/2016/11/smww.png 750w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -666,17 +666,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">Sound Machine Wood Works</a></h3>
+					<h3 class="blog-title"><a href="equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">Sound Machine Wood Works</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-11-27">ноември 27, 2016 10:23 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/sound-machine-wood-works/#respond ">0 Comments</a>
+						/ <a href="equipment/sound-machine-wood-works/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Sound Machine Wood Works, разработен ексклузивно за платформата на Universal Audio и без налично &#8222;пиратско копие&#8220;, е без аналог към настоящия момент. Този чудесен плъг-ин, дава възможност за постигане на отличен звук на вашите акустични китари. Без него, това може да бъде направено чрез използване на микрофони от най-висок клас. И разбира се, в отлично...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/sound-machine-wood-works/"
+											<a href="equipment/sound-machine-wood-works/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -698,7 +698,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/studer-a800/" title="Studer A800">
+							<a class="img-zoom-hover" href="equipment/studer-a800/" title="Studer A800">
 								<img src="http://afsbg.com/wp-content/uploads/2016/11/studer_a800_feature_5.jpg" class="attachment-medium size-medium wp-post-image" alt="studer_a800_feature_5" srcset="http://afsbg.com/wp-content/uploads/2016/11/studer_a800_feature_5.jpg 640w, http://afsbg.com/wp-content/uploads/2016/11/studer_a800_feature_5-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -711,17 +711,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/studer-a800/" title="Studer A800">Studer A800</a></h3>
+					<h3 class="blog-title"><a href="equipment/studer-a800/" title="Studer A800">Studer A800</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-11-21">ноември 21, 2016 2:28 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/studer-a800/#respond ">0 Comments</a>
+						/ <a href="equipment/studer-a800/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Studer A800 UAD2 Plug-in вече е част от нашето оборудване! Studer A800 е една от легендите в звукозаписната техника. Този многоканален магнетофон е създаден през 1978 година. Той е първата лентова машина с микропроцесорно управление. С годините, A800 става еталон за многопистово лентово устройство и аналогов лентов звук. На този 2 inch многоканален магнетофон са...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/studer-a800/"
+											<a href="equipment/studer-a800/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -743,7 +743,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">
+							<a class="img-zoom-hover" href="equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/Pultec-EQP-1A.jpg" class="attachment-medium size-medium wp-post-image" alt="Pultec EQP-1A" srcset="http://afsbg.com/wp-content/uploads/2017/02/Pultec-EQP-1A.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/Pultec-EQP-1A-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -756,17 +756,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">Pultec EQP-1A &#8211; toxitystudio.com</a></h3>
+					<h3 class="blog-title"><a href="equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">Pultec EQP-1A &#8211; toxitystudio.com</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-07-07">юли 7, 2016 6:57 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/pultec-eqp-1a/#respond ">0 Comments</a>
+						/ <a href="equipment/pultec-eqp-1a/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Pultec EQP-1A UAD2 Plug-in значително надхвърля възможностите на стандартните плъгини. Той пресъздава изключително вярно режимите на работа на сложните схеми на хардуера. Използвайки го, човек може да усети с пълна сила аналоговата магия на Pultek. Работейки с EQP-1A, вие ще чуете ефектите на помпане, рязане и претоварване също както и при хардуерното устройство. Ще усетите...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/pultec-eqp-1a/"
+											<a href="equipment/pultec-eqp-1a/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -786,9 +786,9 @@
 	
 	
 	
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/rdd-comparative-tests/">Roland Dimension D &#8211; сравнителни тестове в STUDIO1</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/rdd-comparative-tests/">Roland Dimension D &#8211; сравнителни тестове в STUDIO1</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://toxitystudio.com/news-and-fun/rdd-comparative-tests/feed/</wfw:commentRss>
+			<wfw:commentRss>news-and-fun/rdd-comparative-tests/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://afsbg.com/wp-content/uploads/2017/01/Source-Accoustic-Guitar-7.wav" length="3459998" type="audio/wav" />
 <enclosure url="http://afsbg.com/wp-content/uploads/2017/01/0-Test-Analog-Dem-D-Accoustic-Guitar-8.wav" length="3459998" type="audio/wav" />
@@ -893,15 +893,15 @@
 		<item>
 		<title>За силата на звука и стандартите за гръмкост (Loudnes) в киното</title>
 		<link>http://afsbg.com/news-and-fun/loudness-standards/</link>
-		<comments>http://toxitystudio.com/news-and-fun/loudness-standards/#respond</comments>
+		<comments>news-and-fun/loudness-standards/#respond</comments>
 		<pubDate>Sat, 03 Dec 2016 11:07:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Интересно]]></category>
 		<category><![CDATA[динамична и честотна обработка]]></category>
 
-		<guid isPermaLink="false">http://toxitystudio.com/?p=3115</guid>
+		<guid isPermaLink="false">?p=3115</guid>
 		<description><![CDATA[<p>Силата на звука при звукозаписите, видеозаписите и стандартите при излъчване, отдавна са тема на дискусии. Каква да бъде силата, или по-точно гръмкостта на определен аудио материал, когато той бива издаван на компакт диск, излъчван по радиото или качен в ITunes? Това са въпроси, които касаят както съответния звуков инженер, така и съответния артист, продуцент или ползвател...</p>
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/loudness-standards/">За силата на звука и стандартите за гръмкост (Loudnes) в киното</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/loudness-standards/">За силата на звука и стандартите за гръмкост (Loudnes) в киното</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<p><img class="size-medium wp-image-3467 aligncenter" src="http://afsbg.com/wp-content/uploads/2016/09/Loudness_1-700x467.jpg" alt="Loudness" srcset="http://afsbg.com/wp-content/uploads/2016/09/Loudness_1-700x467.jpg 700w, http://afsbg.com/wp-content/uploads/2016/09/Loudness_1-150x100.jpg 150w, http://afsbg.com/wp-content/uploads/2016/09/Loudness_1.jpg 1024w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p>Силата на звука при звукозаписите, видеозаписите и стандартите при излъчване, отдавна са тема на дискусии. Каква да бъде силата, или по-точно гръмкостта на определен аудио материал, когато той бива издаван на компакт диск, излъчван по радиото или качен в ITunes? Това са въпроси, които касаят както съответния звуков инженер, така и съответния артист, продуцент или ползвател на продукта. Отдавна планираме да публикуваме материал по тези въпроси по отношение на стандартите за гръмкост (Loudnes) в музикалните продукции. Скоро обаче, попаднахме на една интересна статия по отношение на гръмкостта в кино продукциите, която с разрешение на автора й &#8211; г-н. Калин Каралеев, публикуваме с малки съкращения. Материала в оригинален вариант, можете да намерите <a href="http://www.35mm.bg/loudness-war-v-kinoto/">тук</a>.</p>
@@ -912,15 +912,15 @@
 <p>Войната за по-голяма гръмкост в киното е факт и прекратяването и е жизнено важен въпрос. Опитът показва, че този проблем има спираловиден характер и се разраства изключително бързо. Необходими са решителни действия за запазване на едно от най-хубавите неща в киното – неговият качествен звук!&#8220;</p>
 <p>Автор: Калин Каралеев</p>
 <p>Източник: <a href="http://www.35mm.bg/">http://www.35mm.bg/</a></p>
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/loudness-standards/">За силата на звука и стандартите за гръмкост (Loudnes) в киното</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/loudness-standards/">За силата на звука и стандартите за гръмкост (Loudnes) в киното</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://toxitystudio.com/news-and-fun/loudness-standards/feed/</wfw:commentRss>
+			<wfw:commentRss>news-and-fun/loudness-standards/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Neve 1073 &#8211; сравнителни тестове в STUDIO1</title>
 		<link>http://afsbg.com/news-and-fun/1073-test/</link>
-		<comments>http://toxitystudio.com/news-and-fun/1073-test/#respond</comments>
+		<comments>news-and-fun/1073-test/#respond</comments>
 		<pubDate>Sun, 13 Nov 2016 22:47:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Интересно]]></category>
@@ -928,9 +928,9 @@
 		<category><![CDATA[Neve 1073lb]]></category>
 		<category><![CDATA[сравнителни тестове]]></category>
 
-		<guid isPermaLink="false">http://toxitystudio.com/?p=3183</guid>
+		<guid isPermaLink="false">?p=3183</guid>
 		<description><![CDATA[<p>Neve 1073lb vs Neve 1073 Channel Amplifier Plug-in &#160; На 09.11.2016 година, заедно с колегите Мартин Евстатиев и Явор Разбойников, направихме тест за сравнение на хардуерното устройство, разработено от AMS-Neve &#8211; Neve 1073LB и създаденият съвместно от Universal Audio и AMS-Neve &#8211; Neve 1073 Channel Amplifier Plug-in. По време на тестовете, на двете устройства са...</p>
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/1073-test/">Neve 1073 &#8211; сравнителни тестове в STUDIO1</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/1073-test/">Neve 1073 &#8211; сравнителни тестове в STUDIO1</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<h3>Neve 1073lb vs Neve 1073 Channel Amplifier Plug-in</h3>
 <p>&nbsp;</p>
@@ -1090,7 +1090,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">
+							<a class="img-zoom-hover" href="equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">
 								<img src="http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1-700x288.jpg" class="attachment-medium size-medium wp-post-image" alt="Skywalker Ranch and Capitol" srcset="http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1-700x288.jpg 700w, http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1-150x62.jpg 150w, http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1103,17 +1103,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">Neve 88RS Channel Strip</a></h3>
+					<h3 class="blog-title"><a href="equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">Neve 88RS Channel Strip</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2017-04-21">април 21, 2017 11:55 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/#respond ">0 Comments</a>
+						/ <a href="equipment/neve-88rs-channel-strip-1/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; Серията 88 на Neve е образец за широко форматна конзола. Тя е въведена през 2001 година и е известна със своята зашеметяваща дълбочина и детайл. Тя е съчетава а в себе най-доброто от всичко, което Neve са направили преди това. Не случайно такива конзоли се намират в едни от най-добрите студия по света, като Skywalker, Ranch, Capitol...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/"
+											<a href="equipment/neve-88rs-channel-strip-1/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1135,7 +1135,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/cubase-pro-9/" title="Cubase Pro 9">
+							<a class="img-zoom-hover" href="equipment/cubase-pro-9/" title="Cubase Pro 9">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px-700x258.png" class="attachment-medium size-medium wp-post-image" alt="cubase 9" srcset="http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px-700x258.png 700w, http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px-150x55.png 150w, http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px.png 960w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1148,17 +1148,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/cubase-pro-9/" title="Cubase Pro 9">Cubase Pro 9</a></h3>
+					<h3 class="blog-title"><a href="equipment/cubase-pro-9/" title="Cubase Pro 9">Cubase Pro 9</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2017-03-04">март 4, 2017 8:10 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/cubase-pro-9/#respond ">0 Comments</a>
+						/ <a href="equipment/cubase-pro-9/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; Steinberg &#8211; Cubase Pro 9 Студио 1разполага с най- новата версия на софтуера на Steinberg &#8211; Cubase Pro 9. С този софтуер ние имаме опит още от далечната 1993 година. Версия 9 studio e съобразена с най-съвременните стандарти в музикалния звукозапис. Тази най-нова версия на софтуера, позволява студийното време да се използва изключително...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/cubase-pro-9/"
+											<a href="equipment/cubase-pro-9/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1180,7 +1180,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">
+							<a class="img-zoom-hover" href="equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler-700x126.jpg" class="attachment-medium size-medium wp-post-image" alt="MXR Flanger Doubler UAD2 Plug-in" srcset="http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler-700x126.jpg 700w, http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler-150x27.jpg 150w, http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1193,17 +1193,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">MXR Flanger Doubler</a></h3>
+					<h3 class="blog-title"><a href="equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">MXR Flanger Doubler</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2017-02-01">февруари 1, 2017 11:39 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/mxr-flanger-doubler/#respond ">0 Comments</a>
+						/ <a href="equipment/mxr-flanger-doubler/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; MXR Flanger Doubler UAD2 Plug-in вече е част от нашето оборудване. Той звучи невероятно. MXR Flanger Doubler е едно от най-добрите устройства от този тип, правени някога. Може да се използва както като класически фленджър, така и при дублиране на инструменти или вокали. Обработеният с него звуков материал чудесно се вписва в микса и има същият...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/mxr-flanger-doubler/"
+											<a href="equipment/mxr-flanger-doubler/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1225,7 +1225,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">
+							<a class="img-zoom-hover" href="equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">
 								<img src="http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop-700x397.png" class="attachment-medium size-medium wp-post-image" alt="1176 Limiter Collection" srcset="http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop-700x397.png 700w, http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop-150x85.png 150w, http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop.png 767w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1238,17 +1238,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">1176 Classic Limiter Collection</a></h3>
+					<h3 class="blog-title"><a href="equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">1176 Classic Limiter Collection</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-12-27">декември 27, 2016 12:16 am</time>
-						/ <a href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/#respond ">0 Comments</a>
+						/ <a href="equipment/1176-classic-limiter-collection/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Прототипът на Universal Audio 1176 е разраборен от Бил Путъм (Bill Putham) и представлява изключителен технологичен пробив. Това е първият ултра бърз транзисторен пик лимитер. Той е дал своя характер и пънч на много от най-емблематичните песни в историята. Universal Audio са моделирали трите модификации на този компресор &#8211; 1176 Rev A, 1176 Rev E и...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/"
+											<a href="equipment/1176-classic-limiter-collection/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1270,7 +1270,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">
+							<a class="img-zoom-hover" href="equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_3_1.jpg" class="attachment-medium size-medium wp-post-image" alt="teletronix_la2a_collection" srcset="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_3_1.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_3_1-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1283,17 +1283,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">LA2A Silver &#038; Grey</a></h3>
+					<h3 class="blog-title"><a href="equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">LA2A Silver &#038; Grey</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-12-16">декември 16, 2016 12:16 am</time>
-						/ <a href="http://toxitystudio.com/equipment/la2a-silver-grey/#respond ">0 Comments</a>
+						/ <a href="equipment/la2a-silver-grey/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; LA2A Silver &amp; Grey UAD-2 Plug-ins С полиран алуминиев панел и модул за редуциране на гейна (gain reduction) &#8211; T4B, LA2A версия &#8222;Silver&#8220; е създаден в края на шейсетте години от Бил Путъм (Bill Putham). Той е може би най-гъвкавия от трите опто компресора &#8211; LA2, LA2A Silver и LA2A &#8222;Gray&#8220;. Разработеният в средата на шейсетте...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/la2a-silver-grey/"
+											<a href="equipment/la2a-silver-grey/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1315,7 +1315,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/teletronix-la2/" title="Teletronix LA2">
+							<a class="img-zoom-hover" href="equipment/teletronix-la2/" title="Teletronix LA2">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_4_1.jpg" class="attachment-medium size-medium wp-post-image" alt="teletronix_la2" srcset="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_4_1.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_4_1-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1328,17 +1328,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/teletronix-la2/" title="Teletronix LA2">Teletronix LA2</a></h3>
+					<h3 class="blog-title"><a href="equipment/teletronix-la2/" title="Teletronix LA2">Teletronix LA2</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-12-04">декември 4, 2016 10:35 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/teletronix-la2/#respond ">0 Comments</a>
+						/ <a href="equipment/teletronix-la2/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Teletronix LA2 UAD Plug-in Създаден през далечната 1960 година, LA2 предхожда класическия компресор LA2A. Той реагира бавно на обработвания звуков материал и има изключително музикален звук, който се дължи на неговата уникална технологична архитектура. Това е измисленият преди повече от 50 години луминисцентен панел, който е вложен в неговия Т4 модул. LA2 може да работи много прозрачно, но...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/teletronix-la2/"
+											<a href="equipment/teletronix-la2/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1360,7 +1360,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">
+							<a class="img-zoom-hover" href="equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/pultec_meq_5.jpg" class="attachment-medium size-medium wp-post-image" alt="pultec_meq_5" srcset="http://afsbg.com/wp-content/uploads/2017/02/pultec_meq_5.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/pultec_meq_5-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1373,17 +1373,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">Pultec MEQ-5 &#8211; toxitystudio.com</a></h3>
+					<h3 class="blog-title"><a href="equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">Pultec MEQ-5 &#8211; toxitystudio.com</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-11-29">ноември 29, 2016 7:19 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/pultec-meq-5/#respond ">0 Comments</a>
+						/ <a href="equipment/pultec-meq-5/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Част от Pulted Passive EQ Collection на Universal Audio, обработващият средни честоти Pultec MEQ-5 е скъпо звучащ лампов еквалайзер. Той разполага с две ленти на усилване на средни честоти и една лента за намаляване. Подходящ е за корекции на инструменти в средния регистър като китари, вокали и други. С негова помощ инструментите могат да бъдат фиксирани и...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/pultec-meq-5/"
+											<a href="equipment/pultec-meq-5/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1405,7 +1405,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">
+							<a class="img-zoom-hover" href="equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">
 								<img src="http://afsbg.com/wp-content/uploads/2016/11/smww-700x503.png" class="attachment-medium size-medium wp-post-image" alt="Sound Machine Wood Works UAD2 Plug-in" srcset="http://afsbg.com/wp-content/uploads/2016/11/smww-700x503.png 700w, http://afsbg.com/wp-content/uploads/2016/11/smww-150x108.png 150w, http://afsbg.com/wp-content/uploads/2016/11/smww.png 750w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1418,17 +1418,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">Sound Machine Wood Works</a></h3>
+					<h3 class="blog-title"><a href="equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">Sound Machine Wood Works</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-11-27">ноември 27, 2016 10:23 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/sound-machine-wood-works/#respond ">0 Comments</a>
+						/ <a href="equipment/sound-machine-wood-works/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Sound Machine Wood Works, разработен ексклузивно за платформата на Universal Audio и без налично &#8222;пиратско копие&#8220;, е без аналог към настоящия момент. Този чудесен плъг-ин, дава възможност за постигане на отличен звук на вашите акустични китари. Без него, това може да бъде направено чрез използване на микрофони от най-висок клас. И разбира се, в отлично...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/sound-machine-wood-works/"
+											<a href="equipment/sound-machine-wood-works/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1450,7 +1450,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/studer-a800/" title="Studer A800">
+							<a class="img-zoom-hover" href="equipment/studer-a800/" title="Studer A800">
 								<img src="http://afsbg.com/wp-content/uploads/2016/11/studer_a800_feature_5.jpg" class="attachment-medium size-medium wp-post-image" alt="studer_a800_feature_5" srcset="http://afsbg.com/wp-content/uploads/2016/11/studer_a800_feature_5.jpg 640w, http://afsbg.com/wp-content/uploads/2016/11/studer_a800_feature_5-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1463,17 +1463,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/studer-a800/" title="Studer A800">Studer A800</a></h3>
+					<h3 class="blog-title"><a href="equipment/studer-a800/" title="Studer A800">Studer A800</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-11-21">ноември 21, 2016 2:28 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/studer-a800/#respond ">0 Comments</a>
+						/ <a href="equipment/studer-a800/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Studer A800 UAD2 Plug-in вече е част от нашето оборудване! Studer A800 е една от легендите в звукозаписната техника. Този многоканален магнетофон е създаден през 1978 година. Той е първата лентова машина с микропроцесорно управление. С годините, A800 става еталон за многопистово лентово устройство и аналогов лентов звук. На този 2 inch многоканален магнетофон са...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/studer-a800/"
+											<a href="equipment/studer-a800/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1495,7 +1495,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">
+							<a class="img-zoom-hover" href="equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/Pultec-EQP-1A.jpg" class="attachment-medium size-medium wp-post-image" alt="Pultec EQP-1A" srcset="http://afsbg.com/wp-content/uploads/2017/02/Pultec-EQP-1A.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/Pultec-EQP-1A-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1508,17 +1508,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">Pultec EQP-1A &#8211; toxitystudio.com</a></h3>
+					<h3 class="blog-title"><a href="equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">Pultec EQP-1A &#8211; toxitystudio.com</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-07-07">юли 7, 2016 6:57 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/pultec-eqp-1a/#respond ">0 Comments</a>
+						/ <a href="equipment/pultec-eqp-1a/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Pultec EQP-1A UAD2 Plug-in значително надхвърля възможностите на стандартните плъгини. Той пресъздава изключително вярно режимите на работа на сложните схеми на хардуера. Използвайки го, човек може да усети с пълна сила аналоговата магия на Pultek. Работейки с EQP-1A, вие ще чуете ефектите на помпане, рязане и претоварване също както и при хардуерното устройство. Ще усетите...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/pultec-eqp-1a/"
+											<a href="equipment/pultec-eqp-1a/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1538,9 +1538,9 @@
 	
 	
 	
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/1073-test/">Neve 1073 &#8211; сравнителни тестове в STUDIO1</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/1073-test/">Neve 1073 &#8211; сравнителни тестове в STUDIO1</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://toxitystudio.com/news-and-fun/1073-test/feed/</wfw:commentRss>
+			<wfw:commentRss>news-and-fun/1073-test/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://afsbg.com/wp-content/uploads/2016/11/Accu-Guit-Source-File.wav" length="1792148" type="audio/wav" />
 <enclosure url="http://afsbg.com/wp-content/uploads/2016/11/Accu-Guit-Neve-1073LB-Line-20db.wav" length="1792148" type="audio/wav" />
@@ -1595,7 +1595,7 @@
 		<item>
 		<title>Oбработка на основен вокал -група Канела &#8211; &#8222;Винаги&#8220;</title>
 		<link>http://afsbg.com/audio-production/vinagi-lead-vocal/</link>
-		<comments>http://toxitystudio.com/audio-production/vinagi-lead-vocal/#respond</comments>
+		<comments>audio-production/vinagi-lead-vocal/#respond</comments>
 		<pubDate>Fri, 04 Nov 2016 20:13:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Интересно]]></category>
@@ -1603,9 +1603,9 @@
 		<category><![CDATA[динамична и честотна обработка]]></category>
 		<category><![CDATA[Смесване]]></category>
 
-		<guid isPermaLink="false">http://toxitystudio.com/?p=3328</guid>
+		<guid isPermaLink="false">?p=3328</guid>
 		<description><![CDATA[<p>Винаги &#8211; група Канела Получаване на материал, записан в друго студио. Първоначално, песента беше изцяло записана и смесена в студиото на група &#8222;Канела&#8220;. Когато беше дадена за мастеринг в Студио 1 решихме, че тази песен заслужава по-специално внимание. С малко повече усилия, можем да се постигнем по-добър резултат. Реално от записаните в студиото на &#8222;Канела&#8220;...</p>
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/audio-production/vinagi-lead-vocal/">Oбработка на основен вокал -група Канела &#8211; &#8222;Винаги&#8220;</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="audio-production/vinagi-lead-vocal/">Oбработка на основен вокал -група Канела &#8211; &#8222;Винаги&#8220;</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<h4></h4>
 <h4><img class="size-full wp-image-3165 aligncenter" src="http://afsbg.com/wp-content/uploads/2016/10/body-600x300.jpg" alt="body-600x300" srcset="http://afsbg.com/wp-content/uploads/2016/10/body-600x300.jpg 600w, http://afsbg.com/wp-content/uploads/2016/10/body-600x300-150x75.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></h4>
@@ -1617,32 +1617,32 @@
 <h4>Запис на електрически китари.</h4>
 <p>В Студио 1 записахме перкусии и всички електрически китари. За запис на китари с платформата на UAD &#8211; Apollo interface, ще пишем в следващи материали.</p>
 <h4>Динамична и честотна обработка.</h4>
-<p>При смесването обработихме соловия вокал с помощта на VCA компресора <a href="http://toxitystudio.com/equipment/universal-audio-1176ln-classic-limiting-amplifiers/">1175LN na Universal Аudio</a> и опто-компресора на същата фирма &#8211; <a href="http://toxitystudio.com/equipment/teletronix-la2a-classic-leveler/">Teletronix LA2A</a>. В резултат, гласът придоби умерена атака и мекота. С помощта на <a href="http://toxitystudio.com/equipment/pultec-passive-eq-plug-collection/">Pultec EQP 1A</a> постигнахме фокус във високата среда и леко обрахме високите над 10KHz, а със <a href="http://www.uaudio.com/uad-plugins/equalizers/pultec-passive-eq-collection.html" target="_blank">Pultek MEQ-5</a>, подтиснахме средите около 500Hz. Вместо deesser използвахме <a href="http://toxitystudio.com/equipment/precision-multiband/">Precision Multiband Compressor</a>, отново на Universal Audio.</p>
+<p>При смесването обработихме соловия вокал с помощта на VCA компресора <a href="equipment/universal-audio-1176ln-classic-limiting-amplifiers/">1175LN na Universal Аudio</a> и опто-компресора на същата фирма &#8211; <a href="equipment/teletronix-la2a-classic-leveler/">Teletronix LA2A</a>. В резултат, гласът придоби умерена атака и мекота. С помощта на <a href="equipment/pultec-passive-eq-plug-collection/">Pultec EQP 1A</a> постигнахме фокус във високата среда и леко обрахме високите над 10KHz, а със <a href="http://www.uaudio.com/uad-plugins/equalizers/pultec-passive-eq-collection.html" target="_blank">Pultek MEQ-5</a>, подтиснахме средите около 500Hz. Вместо deesser използвахме <a href="equipment/precision-multiband/">Precision Multiband Compressor</a>, отново на Universal Audio.</p>
 <p><img class="size-medium wp-image-3992 aligncenter" src="http://afsbg.com/wp-content/uploads/2017/03/Kanela-Vocals-700x396.png" alt="Kanela Vocals" srcset="http://afsbg.com/wp-content/uploads/2017/03/Kanela-Vocals-700x396.png 700w, http://afsbg.com/wp-content/uploads/2017/03/Kanela-Vocals-150x85.png 150w, http://afsbg.com/wp-content/uploads/2017/03/Kanela-Vocals-1280x724.png 1280w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p>Въпреки тези корекции, на гласа беше необходим малко &#8222;фокус&#8220; в ниските и &#8222;ефир&#8220; във високите честоти. Tук на помощ ни дойде <a href="http://www.uaudio.com/uad-plugins/equalizers/manley-massive-passive.html" target="_blank">Manley Massive Passive Studio Equaliser</a>. Този еквалайзер работи различно от повечето традиционни еквалайзери. Неговите честотни ленти имат по-голяма зависимост помежду си. Тоест, когато нанасяте корекция на дадена честотна лента &#8211; примерно на средите, ниските и високите се променят по различен начин отколкото при стандартен еквалайзер. Малко труден за свикване, но ако веднъж се научим да работим с него, Този еквалайзер може да бъде неоценим помощник както при смесване, така и при пост продукция. С негова помощ, подтиснахме границата между ниските и среди и ниските &#8211; около 150Hz и ниските среди около 250Hz, с тесен Q фактор. Също така, леко подсилихме високите над 5.8Khz. Много полезни и добре звучащи тук са и HP/LP филтрите, с които елиминирахме &#8222;боклука&#8220; под 120 и над 18Khz.</p>
 <h4>Добавяне на хармонични изкривявания.</h4>
 <p>Тъй, като целта беше &#8222;брит&#8220; звучене, дадохме на гласа още малко &#8222;лампово&#8220; оцветяване с помощта на <a href="http://www.uaudio.com/uad-plugins/special-processing/thermionic-culture-vulture.html" target="_blank">Thermionix Culture Vulture UAD2 Plug-in</a>.</p>
 <p>След тези обработки, постигнахме отчетливост, придружена с повече &#8222;въздух&#8220; горе, както и стабилност в микса, на основния вокал.</p>
 <p>&nbsp;</p>
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/audio-production/vinagi-lead-vocal/">Oбработка на основен вокал -група Канела &#8211; &#8222;Винаги&#8220;</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="audio-production/vinagi-lead-vocal/">Oбработка на основен вокал -група Канела &#8211; &#8222;Винаги&#8220;</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://toxitystudio.com/audio-production/vinagi-lead-vocal/feed/</wfw:commentRss>
+			<wfw:commentRss>audio-production/vinagi-lead-vocal/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://afsbg.com/wp-content/uploads/2016/10/Vinagi_Mast_0_1_Web_Demo.mp3" length="11473560" type="audio/mpeg" />
 		</item>
 		<item>
 		<title>Студио 1 ви очаква!</title>
 		<link>http://afsbg.com/news-and-fun/toxity-studio-welcome/</link>
-		<comments>http://toxitystudio.com/news-and-fun/toxity-studio-welcome/#respond</comments>
+		<comments>news-and-fun/toxity-studio-welcome/#respond</comments>
 		<pubDate>Wed, 31 Aug 2016 16:14:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Интересно]]></category>
 
-		<guid isPermaLink="false">http://toxitystudio.com/?p=2962</guid>
+		<guid isPermaLink="false">?p=2962</guid>
 		<description><![CDATA[<p>Студио 1 Ви очаква! През лятото, освен работата по текущите продукции, ние обновихме техниката и подобрихме функционалността на помещенията си. Вярваме, че по този начин ще направим нашето сътрудничество още по-приятно и ползотворно. Очакваме ви! &#160; ОЩЕ ЗА НАШЕТО ОБОРУДВАНЕ &#160;</p>
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/toxity-studio-welcome/">Студио 1 ви очаква!</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/toxity-studio-welcome/">Студио 1 ви очаква!</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<p>Студио 1 Ви очаква! През лятото, освен работата по текущите продукции, ние обновихме техниката и подобрихме функционалността на помещенията си. Вярваме, че по този начин ще направим нашето сътрудничество още по-приятно и ползотворно. <a href="http://toxitystudio.com/contacts/">Очакваме ви</a>!</p>
+				<content:encoded><![CDATA[<p>Студио 1 Ви очаква! През лятото, освен работата по текущите продукции, ние обновихме техниката и подобрихме функционалността на помещенията си. Вярваме, че по този начин ще направим нашето сътрудничество още по-приятно и ползотворно. <a href="contacts/">Очакваме ви</a>!</p>
 <p><img class="size-medium wp-image-2963 aligncenter" src="http://afsbg.com/wp-content/uploads/2016/08/Toxity-26-700x467.jpg" alt="Студио-1-София" srcset="http://afsbg.com/wp-content/uploads/2016/08/Toxity-26-700x467.jpg 700w, http://afsbg.com/wp-content/uploads/2016/08/Toxity-26-150x100.jpg 150w, http://afsbg.com/wp-content/uploads/2016/08/Toxity-26-1280x853.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p><img class="size-medium wp-image-2964 aligncenter" src="http://afsbg.com/wp-content/uploads/2016/08/Toxity14-700x467.jpg" alt="Студио 1Equipment" srcset="http://afsbg.com/wp-content/uploads/2016/08/Toxity14-700x467.jpg 700w, http://afsbg.com/wp-content/uploads/2016/08/Toxity14-150x100.jpg 150w, http://afsbg.com/wp-content/uploads/2016/08/Toxity14-1280x853.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p><img class="size-medium wp-image-2965 aligncenter" src="http://afsbg.com/wp-content/uploads/2016/08/Toxity7-700x467.jpg" alt="Студио-1-София" srcset="http://afsbg.com/wp-content/uploads/2016/08/Toxity7-700x467.jpg 700w, http://afsbg.com/wp-content/uploads/2016/08/Toxity7-150x100.jpg 150w, http://afsbg.com/wp-content/uploads/2016/08/Toxity7-1280x853.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" /></p>
@@ -1748,7 +1748,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">
+							<a class="img-zoom-hover" href="equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">
 								<img src="http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1-700x288.jpg" class="attachment-medium size-medium wp-post-image" alt="Skywalker Ranch and Capitol" srcset="http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1-700x288.jpg 700w, http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1-150x62.jpg 150w, http://afsbg.com/wp-content/uploads/2017/04/neve_88rs_carousel_1_1.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1761,17 +1761,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">Neve 88RS Channel Strip</a></h3>
+					<h3 class="blog-title"><a href="equipment/neve-88rs-channel-strip-1/" title="Neve 88RS Channel Strip">Neve 88RS Channel Strip</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2017-04-21">април 21, 2017 11:55 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/#respond ">0 Comments</a>
+						/ <a href="equipment/neve-88rs-channel-strip-1/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; Серията 88 на Neve е образец за широко форматна конзола. Тя е въведена през 2001 година и е известна със своята зашеметяваща дълбочина и детайл. Тя е съчетава а в себе най-доброто от всичко, което Neve са направили преди това. Не случайно такива конзоли се намират в едни от най-добрите студия по света, като Skywalker, Ranch, Capitol...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/neve-88rs-channel-strip-1/"
+											<a href="equipment/neve-88rs-channel-strip-1/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1793,7 +1793,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/cubase-pro-9/" title="Cubase Pro 9">
+							<a class="img-zoom-hover" href="equipment/cubase-pro-9/" title="Cubase Pro 9">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px-700x258.png" class="attachment-medium size-medium wp-post-image" alt="cubase 9" srcset="http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px-700x258.png 700w, http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px-150x55.png 150w, http://afsbg.com/wp-content/uploads/2017/02/cubase-elements-9-collage-960x354px.png 960w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1806,17 +1806,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/cubase-pro-9/" title="Cubase Pro 9">Cubase Pro 9</a></h3>
+					<h3 class="blog-title"><a href="equipment/cubase-pro-9/" title="Cubase Pro 9">Cubase Pro 9</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2017-03-04">март 4, 2017 8:10 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/cubase-pro-9/#respond ">0 Comments</a>
+						/ <a href="equipment/cubase-pro-9/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; Steinberg &#8211; Cubase Pro 9 Студио 1разполага с най- новата версия на софтуера на Steinberg &#8211; Cubase Pro 9. С този софтуер ние имаме опит още от далечната 1993 година. Версия 9 studio e съобразена с най-съвременните стандарти в музикалния звукозапис. Тази най-нова версия на софтуера, позволява студийното време да се използва изключително...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/cubase-pro-9/"
+											<a href="equipment/cubase-pro-9/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1838,7 +1838,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">
+							<a class="img-zoom-hover" href="equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler-700x126.jpg" class="attachment-medium size-medium wp-post-image" alt="MXR Flanger Doubler UAD2 Plug-in" srcset="http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler-700x126.jpg 700w, http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler-150x27.jpg 150w, http://afsbg.com/wp-content/uploads/2017/02/mxr_flanger_doubler.jpg 1280w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1851,17 +1851,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">MXR Flanger Doubler</a></h3>
+					<h3 class="blog-title"><a href="equipment/mxr-flanger-doubler/" title="MXR Flanger Doubler">MXR Flanger Doubler</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2017-02-01">февруари 1, 2017 11:39 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/mxr-flanger-doubler/#respond ">0 Comments</a>
+						/ <a href="equipment/mxr-flanger-doubler/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; MXR Flanger Doubler UAD2 Plug-in вече е част от нашето оборудване. Той звучи невероятно. MXR Flanger Doubler е едно от най-добрите устройства от този тип, правени някога. Може да се използва както като класически фленджър, така и при дублиране на инструменти или вокали. Обработеният с него звуков материал чудесно се вписва в микса и има същият...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/mxr-flanger-doubler/"
+											<a href="equipment/mxr-flanger-doubler/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1883,7 +1883,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">
+							<a class="img-zoom-hover" href="equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">
 								<img src="http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop-700x397.png" class="attachment-medium size-medium wp-post-image" alt="1176 Limiter Collection" srcset="http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop-700x397.png 700w, http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop-150x85.png 150w, http://afsbg.com/wp-content/uploads/2016/12/1176_Limiter_Collection_Crop.png 767w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1896,17 +1896,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">1176 Classic Limiter Collection</a></h3>
+					<h3 class="blog-title"><a href="equipment/1176-classic-limiter-collection/" title="1176 Classic Limiter Collection">1176 Classic Limiter Collection</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-12-27">декември 27, 2016 12:16 am</time>
-						/ <a href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/#respond ">0 Comments</a>
+						/ <a href="equipment/1176-classic-limiter-collection/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Прототипът на Universal Audio 1176 е разраборен от Бил Путъм (Bill Putham) и представлява изключителен технологичен пробив. Това е първият ултра бърз транзисторен пик лимитер. Той е дал своя характер и пънч на много от най-емблематичните песни в историята. Universal Audio са моделирали трите модификации на този компресор &#8211; 1176 Rev A, 1176 Rev E и...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/1176-classic-limiter-collection/"
+											<a href="equipment/1176-classic-limiter-collection/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1928,7 +1928,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">
+							<a class="img-zoom-hover" href="equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_3_1.jpg" class="attachment-medium size-medium wp-post-image" alt="teletronix_la2a_collection" srcset="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_3_1.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_3_1-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1941,17 +1941,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">LA2A Silver &#038; Grey</a></h3>
+					<h3 class="blog-title"><a href="equipment/la2a-silver-grey/" title="LA2A Silver &#038; Grey">LA2A Silver &#038; Grey</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-12-16">декември 16, 2016 12:16 am</time>
-						/ <a href="http://toxitystudio.com/equipment/la2a-silver-grey/#respond ">0 Comments</a>
+						/ <a href="equipment/la2a-silver-grey/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>&nbsp; LA2A Silver &amp; Grey UAD-2 Plug-ins С полиран алуминиев панел и модул за редуциране на гейна (gain reduction) &#8211; T4B, LA2A версия &#8222;Silver&#8220; е създаден в края на шейсетте години от Бил Путъм (Bill Putham). Той е може би най-гъвкавия от трите опто компресора &#8211; LA2, LA2A Silver и LA2A &#8222;Gray&#8220;. Разработеният в средата на шейсетте...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/la2a-silver-grey/"
+											<a href="equipment/la2a-silver-grey/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -1973,7 +1973,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/teletronix-la2/" title="Teletronix LA2">
+							<a class="img-zoom-hover" href="equipment/teletronix-la2/" title="Teletronix LA2">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_4_1.jpg" class="attachment-medium size-medium wp-post-image" alt="teletronix_la2" srcset="http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_4_1.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/teletronix_la2a_collection_feature_4_1-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -1986,17 +1986,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/teletronix-la2/" title="Teletronix LA2">Teletronix LA2</a></h3>
+					<h3 class="blog-title"><a href="equipment/teletronix-la2/" title="Teletronix LA2">Teletronix LA2</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-12-04">декември 4, 2016 10:35 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/teletronix-la2/#respond ">0 Comments</a>
+						/ <a href="equipment/teletronix-la2/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Teletronix LA2 UAD Plug-in Създаден през далечната 1960 година, LA2 предхожда класическия компресор LA2A. Той реагира бавно на обработвания звуков материал и има изключително музикален звук, който се дължи на неговата уникална технологична архитектура. Това е измисленият преди повече от 50 години луминисцентен панел, който е вложен в неговия Т4 модул. LA2 може да работи много прозрачно, но...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/teletronix-la2/"
+											<a href="equipment/teletronix-la2/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -2018,7 +2018,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">
+							<a class="img-zoom-hover" href="equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/pultec_meq_5.jpg" class="attachment-medium size-medium wp-post-image" alt="pultec_meq_5" srcset="http://afsbg.com/wp-content/uploads/2017/02/pultec_meq_5.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/pultec_meq_5-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -2031,17 +2031,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">Pultec MEQ-5 &#8211; toxitystudio.com</a></h3>
+					<h3 class="blog-title"><a href="equipment/pultec-meq-5/" title="Pultec MEQ-5 &#8211; toxitystudio.com">Pultec MEQ-5 &#8211; toxitystudio.com</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-11-29">ноември 29, 2016 7:19 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/pultec-meq-5/#respond ">0 Comments</a>
+						/ <a href="equipment/pultec-meq-5/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Част от Pulted Passive EQ Collection на Universal Audio, обработващият средни честоти Pultec MEQ-5 е скъпо звучащ лампов еквалайзер. Той разполага с две ленти на усилване на средни честоти и една лента за намаляване. Подходящ е за корекции на инструменти в средния регистър като китари, вокали и други. С негова помощ инструментите могат да бъдат фиксирани и...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/pultec-meq-5/"
+											<a href="equipment/pultec-meq-5/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -2063,7 +2063,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">
+							<a class="img-zoom-hover" href="equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">
 								<img src="http://afsbg.com/wp-content/uploads/2016/11/smww-700x503.png" class="attachment-medium size-medium wp-post-image" alt="Sound Machine Wood Works UAD2 Plug-in" srcset="http://afsbg.com/wp-content/uploads/2016/11/smww-700x503.png 700w, http://afsbg.com/wp-content/uploads/2016/11/smww-150x108.png 150w, http://afsbg.com/wp-content/uploads/2016/11/smww.png 750w" sizes="(max-width: 700px) 100vw, 700px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -2076,17 +2076,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">Sound Machine Wood Works</a></h3>
+					<h3 class="blog-title"><a href="equipment/sound-machine-wood-works/" title="Sound Machine Wood Works">Sound Machine Wood Works</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-11-27">ноември 27, 2016 10:23 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/sound-machine-wood-works/#respond ">0 Comments</a>
+						/ <a href="equipment/sound-machine-wood-works/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Sound Machine Wood Works, разработен ексклузивно за платформата на Universal Audio и без налично &#8222;пиратско копие&#8220;, е без аналог към настоящия момент. Този чудесен плъг-ин, дава възможност за постигане на отличен звук на вашите акустични китари. Без него, това може да бъде направено чрез използване на микрофони от най-висок клас. И разбира се, в отлично...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/sound-machine-wood-works/"
+											<a href="equipment/sound-machine-wood-works/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -2108,7 +2108,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/studer-a800/" title="Studer A800">
+							<a class="img-zoom-hover" href="equipment/studer-a800/" title="Studer A800">
 								<img src="http://afsbg.com/wp-content/uploads/2016/11/studer_a800_feature_5.jpg" class="attachment-medium size-medium wp-post-image" alt="studer_a800_feature_5" srcset="http://afsbg.com/wp-content/uploads/2016/11/studer_a800_feature_5.jpg 640w, http://afsbg.com/wp-content/uploads/2016/11/studer_a800_feature_5-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -2121,17 +2121,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/studer-a800/" title="Studer A800">Studer A800</a></h3>
+					<h3 class="blog-title"><a href="equipment/studer-a800/" title="Studer A800">Studer A800</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-11-21">ноември 21, 2016 2:28 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/studer-a800/#respond ">0 Comments</a>
+						/ <a href="equipment/studer-a800/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Studer A800 UAD2 Plug-in вече е част от нашето оборудване! Studer A800 е една от легендите в звукозаписната техника. Този многоканален магнетофон е създаден през 1978 година. Той е първата лентова машина с микропроцесорно управление. С годините, A800 става еталон за многопистово лентово устройство и аналогов лентов звук. На този 2 inch многоканален магнетофон са...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/studer-a800/"
+											<a href="equipment/studer-a800/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -2153,7 +2153,7 @@
 					<div class="col-sm-6							 blog-image">
 
 						
-							<a class="img-zoom-hover" href="http://toxitystudio.com/equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">
+							<a class="img-zoom-hover" href="equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">
 								<img src="http://afsbg.com/wp-content/uploads/2017/02/Pultec-EQP-1A.jpg" class="attachment-medium size-medium wp-post-image" alt="Pultec EQP-1A" srcset="http://afsbg.com/wp-content/uploads/2017/02/Pultec-EQP-1A.jpg 640w, http://afsbg.com/wp-content/uploads/2017/02/Pultec-EQP-1A-150x75.jpg 150w" sizes="(max-width: 640px) 100vw, 640px" />
 																<i class="hover-icon fa fa-eye"></i>
 							</a>
@@ -2166,17 +2166,17 @@
 				
 				
 				<div class="col-sm-6 blog-body">
-					<h3 class="blog-title"><a href="http://toxitystudio.com/equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">Pultec EQP-1A &#8211; toxitystudio.com</a></h3>
+					<h3 class="blog-title"><a href="equipment/pultec-eqp-1a/" title="Pultec EQP-1A &#8211; toxitystudio.com">Pultec EQP-1A &#8211; toxitystudio.com</a></h3>
 
-					<p class="blog-info">Posted by <a href="http://toxitystudio.com/author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
+					<p class="blog-info">Posted by <a href="author/admin/" title="Публикации от Румен Лишков" rel="author">Rumen Lishkov</a> on
 						<time datetime="2016-07-07">юли 7, 2016 6:57 pm</time>
-						/ <a href="http://toxitystudio.com/equipment/pultec-eqp-1a/#respond ">0 Comments</a>
+						/ <a href="equipment/pultec-eqp-1a/#respond ">0 Comments</a>
 					</p>
 					<div class="blog-excerpt">
 													<p>Pultec EQP-1A UAD2 Plug-in значително надхвърля възможностите на стандартните плъгини. Той пресъздава изключително вярно режимите на работа на сложните схеми на хардуера. Използвайки го, човек може да усети с пълна сила аналоговата магия на Pultek. Работейки с EQP-1A, вие ще чуете ефектите на помпане, рязане и претоварване също както и при хардуерното устройство. Ще усетите...</p>
 											</div>
 
-											<a href="http://toxitystudio.com/equipment/pultec-eqp-1a/"
+											<a href="equipment/pultec-eqp-1a/"
 						   class="btn btn-default blog-readmore">Прочети повече</a>
 									</div>
 
@@ -2196,22 +2196,22 @@
 	
 	
 	
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/toxity-studio-welcome/">Студио 1 ви очаква!</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/toxity-studio-welcome/">Студио 1 ви очаква!</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://toxitystudio.com/news-and-fun/toxity-studio-welcome/feed/</wfw:commentRss>
+			<wfw:commentRss>news-and-fun/toxity-studio-welcome/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Как технологиите промениха студийната работа</title>
 		<link>http://afsbg.com/news-and-fun/%d1%81%d1%82%d1%83%d0%b4%d0%b8%d0%b9%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b0/</link>
-		<comments>http://toxitystudio.com/news-and-fun/%d1%81%d1%82%d1%83%d0%b4%d0%b8%d0%b9%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b0/#respond</comments>
+		<comments>news-and-fun/%d1%81%d1%82%d1%83%d0%b4%d0%b8%d0%b9%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b0/#respond</comments>
 		<pubDate>Fri, 01 Jul 2016 08:43:37 +0000</pubDate>
 		<dc:creator><![CDATA[Boris Bonchev]]></dc:creator>
 				<category><![CDATA[Интересно]]></category>
 
-		<guid isPermaLink="false">http://toxitystudio.com/?p=2866</guid>
+		<guid isPermaLink="false">?p=2866</guid>
 		<description><![CDATA[<p>Спомени от 1993 През годините не съм предполагал, че някога ще имам възможност да работя със студийната техника, с която разполагаме днес. В първото студио, в което съм работил и което създадохме заедно с Емил Бояджиев и Иван Станков през 1993 г., беше Графити. Започнахме с един Tascam 238, който записваше 8 канала на стандартна аудио касета. Беше с dbx шумоподтискаща...</p>
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/%d1%81%d1%82%d1%83%d0%b4%d0%b8%d0%b9%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b0/">Как технологиите промениха студийната работа</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/%d1%81%d1%82%d1%83%d0%b4%d0%b8%d0%b9%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b0/">Как технологиите промениха студийната работа</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<p><img class="size-full wp-image-2918 aligncenter" src="http://afsbg.com/wp-content/uploads/2016/07/Bonchev-Neformalna.jpg" alt="Boris Bonchev" srcset="http://afsbg.com/wp-content/uploads/2016/07/Bonchev-Neformalna.jpg 599w, http://afsbg.com/wp-content/uploads/2016/07/Bonchev-Neformalna-150x75.jpg 150w" sizes="(max-width: 599px) 100vw, 599px" /></p>
 <h3>Спомени от 1993</h3>
@@ -2220,9 +2220,9 @@
 <h3>Днешната реалност</h3>
 <p>Днес мога да отида в студиото и да работя с тези чудесни инструменти. И ако е рекъл Господ, с радост и удоволствие да направя още една, още по-добра <a href="/gallery/">продукция</a>.</p>
 <p>Тогавашният начин на работа имаше още едно основно предимство. Опитът, който дава смесването на аналогова конзола с хардуерна периферия е незаменим. Моята практика и контактите с колеги показва, че да се придобие този опит само с работа на компютър и смесване с мишка е невъзможно. Развитието на технологиите, направи много от най-ползваните скъпи устройства в големите студия по света много по-достъпни. Предизвикателството е вече не толкова да си ги купиш, колкото да можеш да работиш с тях и да го правиш все по-добре. Както казва Румен Бояджиев &#8222;Това, че имаш Ферари, далеч не значи, че можеш да го караш&#8220;. Но който има таланта и постоянството необходими за работата на звукорежисьора и желанието да се научи, той ще го направи.</p>
-<p>The post <a rel="nofollow" href="http://toxitystudio.com/news-and-fun/%d1%81%d1%82%d1%83%d0%b4%d0%b8%d0%b9%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b0/">Как технологиите промениха студийната работа</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
+<p>The post <a rel="nofollow" href="news-and-fun/%d1%81%d1%82%d1%83%d0%b4%d0%b8%d0%b9%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b0/">Как технологиите промениха студийната работа</a> appeared first on <a rel="nofollow" href="http://toxitystudio.com">toxitystudio.com</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://toxitystudio.com/news-and-fun/%d1%81%d1%82%d1%83%d0%b4%d0%b8%d0%b9%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b0/feed/</wfw:commentRss>
+			<wfw:commentRss>news-and-fun/%d1%81%d1%82%d1%83%d0%b4%d0%b8%d0%b9%d0%bd%d0%b0-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b0/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
