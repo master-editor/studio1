@@ -11,11 +11,11 @@ DAW
 Прослушване, подготовка, определяне на параметри, изравняване, филтриране, процесиране с ефекти, онлайн миксиране.
 
 ..  image:: ../img/mixing.jpeg
-   :height: 171px
+:height: 171px
    :width: 171px
-   :scale: 50%
-   :alt: ENS logo
-   :align: left
+       :scale: 50%
+       :alt: ENS logo
+       :align: left
 
 Вирт. Инструменти
 -----------------

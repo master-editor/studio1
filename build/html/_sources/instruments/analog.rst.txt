@@ -11,11 +11,11 @@
 Прослушване, подготовка, определяне на параметри, изравняване, филтриране, процесиране с ефекти, онлайн миксиране.
 
 ..  image:: ../img/mixing.jpeg
-   :height: 171px
+:height: 171px
    :width: 171px
-   :scale: 50%
-   :alt: ENS logo
-   :align: left
+       :scale: 50%
+       :alt: ENS logo
+       :align: left
 
 Редактиране
 -----------
@@ -30,11 +30,11 @@
 Баланс, компресиране, лимитиране, онлайн мастериране, финален мастеринг, творчество.
 
 ..  image:: ../img/mastering.jpg
-   :height: 171px
+:height: 171px
    :width: 171px
-   :scale: 50%
-   :alt: logo
-   :align: right
+       :scale: 50%
+       :alt: logo
+       :align: right
 
 
 Звуков дизайн
@@ -44,11 +44,11 @@
 специални ефекти, ринг тонове, саунд брандиране.
 
 ..  image:: ../img/amps.jpeg
-   :height: 171px
+:height: 171px
    :width: 171px
-   :scale: 50%
-   :alt: ENS logo
-   :align: left
+       :scale: 50%
+       :alt: ENS logo
+       :align: left
 
 Аудио продукция
 ---------------
@@ -61,13 +61,13 @@
 ===================
 
 ..  image:: ../img/recording.jpeg
-   :height: 171px
+:height: 171px
    :width: 171px
-   :scale: 50%
-   :alt: ENS logo
-   :align: right
+       :scale: 50%
+       :alt: ENS logo
+       :align: right
 
-Композиране на оригинална музика; аранжиране; нотиране; оркестриране; адаптиране и алтериране.
+    Композиране на оригинална музика; аранжиране; нотиране; оркестриране; адаптиране и алтериране.
 
 Рекламна продукция
 ------------------
