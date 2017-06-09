@@ -3,14 +3,20 @@
 ****
 
 .. csv-table:: Balance Sheet
-:header: Услуга,Време,Цена,Инжинер
+<<<<<<< HEAD
+  :header: Услуга,Време,Цена,Инжинер
+  :widths: 20, 10, 10, 20
+  :stub-columns: 1
+=======
+   :header: Услуга,Време,Цена,Инжинер
    :widths: 20, 10, 10, 20
-       :stub-columns: 1
+   :stub-columns: 1
+>>>>>>> 4a228e6d9c302e25d5cb1fbac188f4f884ea3b3a
 
-       Travel,,230.00,-230.00
-       Fees,,400.00,-630.00
-       Grant,700.00,,70.00
-       Train Fare,,70.00,**0.00**
+   Travel,,230.00,-230.00
+   Fees,,400.00,-630.00
+   Grant,700.00,,70.00
+   Train Fare,,70.00,**0.00**
 
 Vermona
 -------

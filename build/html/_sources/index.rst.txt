@@ -39,7 +39,14 @@
 :maxdepth: 1
       :caption: ЗВУКОЗАПИС
 
+<<<<<<< HEAD
+  recording/engeneers
+  recording/faq
+  recording/prices
+  recording/services
+=======
       recording/engeneers
       recording/faq
       recording/prices
       recording/services
+>>>>>>> 4a228e6d9c302e25d5cb1fbac188f4f884ea3b3a

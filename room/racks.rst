@@ -2,12 +2,15 @@
 Ракове / Шкафове
 ****************
 
+<<<<<<< HEAD
+=======
 ..  image:: ../img/rumensuite500.png
-:height: 351px
+   :height: 351px
    :width: 300px
-       :scale: 50%
-       :alt: ENS logo
-       :align: right
+   :scale: 50%
+   :alt: ENS logo
+   :align: right
+>>>>>>> 4a228e6d9c302e25d5cb1fbac188f4f884ea3b3a
 
 Ракове
 ========
