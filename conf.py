@@ -1,11 +1,12 @@
 import os
+
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.napoleon',
     'sphinx.ext.imgmath',
     'sphinx.ext.viewcode',
     'sphinx.ext.autosummary'
-    ]
+]
 
 source_suffix = '.rst'
 master_doc = 'index'
@@ -15,7 +16,7 @@ release = 'latest'
 copyright = '2017, STUDIO1-SOFIA'
 author = 'Rumen Lishkov'
 
-#templates_path = ['_templates']
+# templates_path = ['_templates']
 exclude_patterns = ['_build', 'docs', '.idea', '.gitignore' '.project', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
@@ -28,11 +29,11 @@ todo_include_todos = True
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['static']
 
-#html_theme_path = ["_themes", ]
+# html_theme_path = ["_themes", ]
 # Theme style override
 
 # Output file base name for HTML help builder.
-#htmlhelp_basename = 'STUDIO 1'
+# htmlhelp_basename = 'STUDIO 1'
 
 if os.environ.get('READTHEDOCS') == 'True':
     style_file = '_static/theme.css'

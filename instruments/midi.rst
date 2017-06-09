@@ -3,11 +3,11 @@
 ****
 
 ..  image:: ../img/rumensuite500.png
-   :height: 351px
+:height: 351px
    :width: 300px
-   :scale: 50%
-   :alt: ENS logo
-   :align: right
+       :scale: 50%
+       :alt: ENS logo
+       :align: right
 
 Overview
 ========
