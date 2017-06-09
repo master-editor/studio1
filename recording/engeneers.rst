@@ -14,14 +14,14 @@
 
 
 ..  image:: ../img/rumensuite500.png
-:height: 100px
+   :height: 100px
    :width: 80px
-       :scale: 50%
-       :alt: ENS logo
-       :align: right
+   :scale: 50%
+   :alt: ENS logo
+   :align: right
 
-    System administrator with a wide breadth of experience in various OS, networking, datacenters, microservices and there orchestrations. I look forward and learning and working with last technologys in diffrent teams to help end customers to meet and exceed their needs.
-    ENS is the Ethereum Name Service, a distributed, open, and extensible naming system based on the Ethereum blockchain.
+System administrator with a wide breadth of experience in various OS, networking, datacenters, microservices and there orchestrations. I look forward and learning and working with last technologys in diffrent teams to help end customers to meet and exceed their needs.
+ENS is the Ethereum Name Service, a distributed, open, and extensible naming system based on the Ethereum blockchain.
 
 
 Architecture

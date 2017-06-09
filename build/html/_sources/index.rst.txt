@@ -1,44 +1,45 @@
 Студио 1 София
 ##############
 ..  image:: img/studio1-logo.png
-   :height: 351px
+:height: 351px
    :width: 300px
-   :scale: 50%
-   :alt: ENS logo
-   :align: right
+       :scale: 50%
+       :alt: ENS logo
+       :align: right
 
 .. toctree::
-  :maxdepth: 1
-  :caption: ОБОРУДВАНЕ
+:maxdepth: 1
+      :caption: ОБОРУДВАНЕ
 
-  equipment/computer-systems
-  equipment/mixers-tracks
-  equipment/sound-systems
-
-.. toctree::
-  :maxdepth: 1
-  :caption: ИНСТРУМЕНТИ
-
-  instruments/keyboards
-  instruments/strings
-  instruments/drums
-  instruments/brass
-  instruments/analog
-  instruments/midi
-
+      equipment/computer-systems
+      equipment/mixers-tracks
+      equipment/sound-systems
 
 .. toctree::
-  :maxdepth: 1
-  :caption: АПАРАТНА
+:maxdepth: 1
+      :caption: ИНСТРУМЕНТИ
 
-  room/env
-  room/workstations
-  room/racks
+      instruments/keyboards
+      instruments/strings
+      instruments/drums
+      instruments/brass
+      instruments/analog
+      instruments/midi
+
 
 .. toctree::
-  :maxdepth: 1
-  :caption: ЗВУКОЗАПИС
+:maxdepth: 1
+      :caption: АПАРАТНА
 
-  recording/engeneers
-  recording/faq
-  recording/prices
+      room/env
+      room/workstations
+      room/racks
+
+.. toctree::
+:maxdepth: 1
+      :caption: ЗВУКОЗАПИС
+
+      recording/engeneers
+      recording/faq
+      recording/prices
+      recording/services
