@@ -14,7 +14,6 @@
 Падовде
 =======
 
-<<<<<<< HEAD
 =======
 ..  image:: ../img/rumensuite500.png
    :height: 351px
@@ -23,14 +22,13 @@
    :alt: ENS logo
    :align: right
 
->>>>>>> 4a228e6d9c302e25d5cb1fbac188f4f884ea3b3a
 Overview
 ========
  - Sex: Male
  - Born: 1985
  - City: Sofia [BUL]
  - Duty: Studio Tehnologies
-   - Service: Picker/Accoustic
+ - Service: Picker/Accoustic
  - Duty: DevOps / CI|CD / System Administrator
 
 

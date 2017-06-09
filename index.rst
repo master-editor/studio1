@@ -15,6 +15,8 @@
   equipment/mixers-tracks
   equipment/sound-systems
 
+.. _about-docs:
+
 .. toctree::
   :maxdepth: 1
   :caption: ИНСТРУМЕНТИ
