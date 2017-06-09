@@ -16,7 +16,7 @@ copyright = '2017, STUDIO1-SOFIA'
 author = 'Rumen Lishkov'
 
 #templates_path = ['_templates']
-exclude_patterns = ['_build', '.idea', '.project', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ['_build', 'docs', '.idea', '.gitignore' '.project', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
