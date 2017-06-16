@@ -14,10 +14,6 @@
    :height: 171px
    :width: 171px
    :scale: 50%
-   :alt: logo
-   :align: right
-
-=======
    :alt: ENS logo
    :align: left
 
@@ -69,7 +65,7 @@
    :width: 171px
    :scale: 50%
    :alt: ENS logo
-   :align: left
+   :align: right
 
 Композиране на оригинална музика; аранжиране; нотиране; оркестриране; адаптиране и алтериране.
 

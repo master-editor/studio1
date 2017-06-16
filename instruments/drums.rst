@@ -14,7 +14,6 @@
 Падовде
 =======
 
-=======
 ..  image:: ../img/rumensuite500.png
    :height: 351px
    :width: 300px
@@ -28,7 +27,7 @@ Overview
  - Born: 1985
  - City: Sofia [BUL]
  - Duty: Studio Tehnologies
- - Service: Picker/Accoustic
+   - Service: Picker/Accoustic
  - Duty: DevOps / CI|CD / System Administrator
 
 

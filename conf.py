@@ -2,8 +2,10 @@ import os
 
 extensions = [
     'sphinx.ext.autodoc',
+    'sphinx.ext.napoleon',
     'sphinx.ext.imgmath',
     'sphinx.ext.viewcode',
+    'sphinx.ext.autosummary'
 ]
 
 source_suffix = '.rst'
