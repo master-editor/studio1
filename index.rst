@@ -2,15 +2,17 @@
 Студио 1 София
 ===============
 
----------------------------------------
-
+test
 
 ..  image:: img/studio1-logo.png
    :height: 351px
    :width: 300px
    :scale: 50%
    :alt: ENS logo
-   :align: right
+   :align: center
+
+---------------------------------------
+
 
 .. toctree::
   :maxdepth: 1
@@ -19,6 +21,13 @@
   equipment/computer-systems
   equipment/mixers-tracks
   equipment/sound-systems
+
+.. sidebar:: Sidebar Title
+  :subtitle: Optional Sidebar Subtitle
+
+  Subsequent indented lines comprise
+  the body of the sidebar, and are
+  interpreted as body elements.
 
 .. _about-docs:
 
@@ -33,7 +42,6 @@
   instruments/analog
   instruments/midi
 
-
 .. toctree::
   :maxdepth: 1
   :caption: АПАРАТНА
@@ -41,6 +49,13 @@
   room/env
   room/workstations
   room/racks
+
+.. sidebar:: Sidebar Title
+   :subtitle: Optional Sidebar Subtitle
+
+   Subsequent indented lines comprise
+   the body of the sidebar, and are
+   interpreted as body elements.
 
 .. toctree::
   :maxdepth: 1
@@ -50,16 +65,6 @@
   recording/faq
   recording/prices
   recording/services
-
-
-.. sidebar:: Sidebar Title
-   :subtitle: Optional Sidebar Subtitle
-
-   Subsequent indented lines comprise
-   the body of the sidebar, and are
-   interpreted as body elements.
-
-
 
 
 ..

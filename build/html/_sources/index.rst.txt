@@ -2,6 +2,54 @@
 Студио 1 София
 ===============
 
+test
+
+..  image:: img/studio1-logo.png
+   :height: 351px
+   :width: 300px
+   :scale: 50%
+   :alt: ENS logo
+   :align: center
+
+---------------------------------------
+
+
+.. toctree::
+  :maxdepth: 1
+  :caption: ОБОРУДВАНЕ
+
+  equipment/computer-systems
+  equipment/mixers-tracks
+  equipment/sound-systems
+
+.. sidebar:: Sidebar Title
+  :subtitle: Optional Sidebar Subtitle
+
+  Subsequent indented lines comprise
+  the body of the sidebar, and are
+  interpreted as body elements.
+
+.. _about-docs:
+
+.. toctree::
+  :maxdepth: 1
+  :caption: ИНСТРУМЕНТИ
+
+  instruments/keyboards
+  instruments/strings
+  instruments/drums
+  instruments/brass
+  instruments/analog
+  instruments/midi
+
+.. toctree::
+  :maxdepth: 1
+  :caption: АПАРАТНА
+
+  room/env
+  room/workstations
+  room/racks
+
 .. sidebar:: Sidebar Title
    :subtitle: Optional Sidebar Subtitle
 
@@ -9,14 +57,15 @@
    the body of the sidebar, and are
    interpreted as body elements.
 
-+------------------------------+
-| Студио 1 София               |
-|                              |
-+------------------------------+
+.. toctree::
+  :maxdepth: 1
+  :caption: ЗВУКОЗАПИС
 
-.. warning::
-   Module :py:mod:`zipfile`
-      Documentation of the :py:mod:`zipfile` standard module.
+  recording/engeneers
+  recording/faq
+  recording/prices
+  recording/services
+
 
 ..
    This whole indented block
@@ -31,8 +80,10 @@ H1: document title
 .. note::
   Some note.
 
+.. warning::
+   Module :py:mod:`zipfile`
+      Documentation of the :py:mod:`zipfile` standard module.*********
 
-*********
 Sample H2
 *********
 
@@ -99,52 +150,3 @@ And some text.
 
    `GNU tar manual, Basic Tar Format <http://link>`_
       Documentation for tar archive files, including GNU tar extensions.
-
----------------------------------------
-
-
-..  image:: img/studio1-logo.png
-   :height: 351px
-   :width: 300px
-   :scale: 50%
-   :alt: ENS logo
-   :align: right
-
-.. toctree::
-  :maxdepth: 1
-  :caption: ОБОРУДВАНЕ
-
-  equipment/computer-systems
-  equipment/mixers-tracks
-  equipment/sound-systems
-
-.. _about-docs:
-
-.. toctree::
-  :maxdepth: 1
-  :caption: ИНСТРУМЕНТИ
-
-  instruments/keyboards
-  instruments/strings
-  instruments/drums
-  instruments/brass
-  instruments/analog
-  instruments/midi
-
-
-.. toctree::
-  :maxdepth: 1
-  :caption: АПАРАТНА
-
-  room/env
-  room/workstations
-  room/racks
-
-.. toctree::
-  :maxdepth: 1
-  :caption: ЗВУКОЗАПИС
-
-  recording/engeneers
-  recording/faq
-  recording/prices
-  recording/services
