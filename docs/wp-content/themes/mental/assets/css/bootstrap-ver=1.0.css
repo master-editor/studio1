@@ -525,7 +525,7 @@ td, th { padding: 0; }
 
 html { font-size: 62.5%; -webkit-tap-highlight-color: transparent; }
 
-body { font-family: "Oxygen", sans-serif; font-size: 14px; line-height: 1.7; color: #333333; background-color: #fff; }
+body { font-family: "Oxygen", sans-serif; font-size: 16px; line-height: 1.7; color: #d4141499; background-color: #fff; }
 
 input, button, select, textarea { font-family: inherit; font-size: inherit; line-height: inherit; }
 
