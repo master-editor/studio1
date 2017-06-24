@@ -2,11 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e27b656-d034-465a-ae15-fadad4779220" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/index 2.html" afterPath="$PROJECT_DIR$/docs/equipment/index 2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/about-studio1/index.html" afterPath="$PROJECT_DIR$/docs/about-studio1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/acoustic-guitars/index.html" afterPath="$PROJECT_DIR$/docs/acoustic-guitars/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/audio-production/dryanovski-babi-project-1/index.html" afterPath="$PROJECT_DIR$/docs/audio-production/dryanovski-babi-project-1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/audio-production/dryanovski-babi-project-2/index.html" afterPath="$PROJECT_DIR$/docs/audio-production/dryanovski-babi-project-2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/audio-production/dryanovski-babi-project-3/index.html" afterPath="$PROJECT_DIR$/docs/audio-production/dryanovski-babi-project-3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/audio-production/vinagi-lead-vocal/index.html" afterPath="$PROJECT_DIR$/docs/audio-production/vinagi-lead-vocal/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/author/admin/index.html" afterPath="$PROJECT_DIR$/docs/author/admin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/author/admin/page/2/index.html" afterPath="$PROJECT_DIR$/docs/author/admin/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/author/admin/page/3/index.html" afterPath="$PROJECT_DIR$/docs/author/admin/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/author/admin/page/7/index.html" afterPath="$PROJECT_DIR$/docs/author/admin/page/7/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/author/bonomono/index.html" afterPath="$PROJECT_DIR$/docs/author/bonomono/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/index.html" afterPath="$PROJECT_DIR$/docs/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/audio-production/index.html" afterPath="$PROJECT_DIR$/docs/blog/audio-production/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/equipment/index.html" afterPath="$PROJECT_DIR$/docs/blog/equipment/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/equipment/page/2/index.html" afterPath="$PROJECT_DIR$/docs/blog/equipment/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/equipment/page/3/index.html" afterPath="$PROJECT_DIR$/docs/blog/equipment/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/equipment/page/6/index.html" afterPath="$PROJECT_DIR$/docs/blog/equipment/page/6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/news-and-fun/index.html" afterPath="$PROJECT_DIR$/docs/blog/news-and-fun/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/tips-and-tricks/index.html" afterPath="$PROJECT_DIR$/docs/blog/tips-and-tricks/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/клиентите-за-нас/index.html" afterPath="$PROJECT_DIR$/docs/blog/клиентите-за-нас/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/contacts/index.html" afterPath="$PROJECT_DIR$/docs/contacts/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/index.html" afterPath="$PROJECT_DIR$/docs/equipment/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/1176-classic-limiter-collection/index.html" afterPath="$PROJECT_DIR$/docs/equipment/1176-classic-limiter-collection/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/1457-2/index.html" afterPath="$PROJECT_DIR$/docs/equipment/1457-2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/1503-2/index.html" afterPath="$PROJECT_DIR$/docs/equipment/1503-2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/ampex-atr-102-mastering-tape-recorder_/index.html" afterPath="$PROJECT_DIR$/docs/equipment/ampex-atr-102-mastering-tape-recorder_/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/brainworx-digital-v2/index.html" afterPath="$PROJECT_DIR$/docs/equipment/brainworx-digital-v2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/brainworx-digital-v3/index.html" afterPath="$PROJECT_DIR$/docs/equipment/brainworx-digital-v3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/cooper-time-cube-delay/index.html" afterPath="$PROJECT_DIR$/docs/equipment/cooper-time-cube-delay/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/cubase-pro-9/index.html" afterPath="$PROJECT_DIR$/docs/equipment/cubase-pro-9/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/dreamverb-room-modeller/index.html" afterPath="$PROJECT_DIR$/docs/equipment/dreamverb-room-modeller/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/emt-140-claccic-plate-reverbrator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/emt-140-claccic-plate-reverbrator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/fairchild-tube-limiter-660-670/index.html" afterPath="$PROJECT_DIR$/docs/equipment/fairchild-tube-limiter-660-670/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/fatso-jr-sr-compressor-and-saturator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/fatso-jr-sr-compressor-and-saturator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/helios-type-69-eq/index.html" afterPath="$PROJECT_DIR$/docs/equipment/helios-type-69-eq/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/joemeek-oneq-studio-channel/index.html" afterPath="$PROJECT_DIR$/docs/equipment/joemeek-oneq-studio-channel/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/la2a-silver-grey/index.html" afterPath="$PROJECT_DIR$/docs/equipment/la2a-silver-grey/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/lexicon-224-digital-reverbrator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/lexicon-224-digital-reverbrator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/little-labs-ibp/index.html" afterPath="$PROJECT_DIR$/docs/equipment/little-labs-ibp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/little-labs-vog/index.html" afterPath="$PROJECT_DIR$/docs/equipment/little-labs-vog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/manley-massive-passive-tube-equaliser/index.html" afterPath="$PROJECT_DIR$/docs/equipment/manley-massive-passive-tube-equaliser/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/manley-massive-passive-tube-mixing-equaliser/index.html" afterPath="$PROJECT_DIR$/docs/equipment/manley-massive-passive-tube-mixing-equaliser/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/mxr-flanger-doubler/index.html" afterPath="$PROJECT_DIR$/docs/equipment/mxr-flanger-doubler/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/neve-1073-channel-amplifier-and-eq/index.html" afterPath="$PROJECT_DIR$/docs/equipment/neve-1073-channel-amplifier-and-eq/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/neve-33609-compressor/index.html" afterPath="$PROJECT_DIR$/docs/equipment/neve-33609-compressor/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/neve-88rs-channel-strip/index.html" afterPath="$PROJECT_DIR$/docs/equipment/neve-88rs-channel-strip/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/neve-88rs-channel-strip-1/index.html" afterPath="$PROJECT_DIR$/docs/equipment/neve-88rs-channel-strip-1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/precision-delay-modulation/index.html" afterPath="$PROJECT_DIR$/docs/equipment/precision-delay-modulation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/precision-limiter/index.html" afterPath="$PROJECT_DIR$/docs/equipment/precision-limiter/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/precision-multiband/index.html" afterPath="$PROJECT_DIR$/docs/equipment/precision-multiband/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/pultec-eqp-1a/index.html" afterPath="$PROJECT_DIR$/docs/equipment/pultec-eqp-1a/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/pultec-meq-5/index.html" afterPath="$PROJECT_DIR$/docs/equipment/pultec-meq-5/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/pultec-passive-eq-plug-collection/index.html" afterPath="$PROJECT_DIR$/docs/equipment/pultec-passive-eq-plug-collection/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/realverb-pro-room-modeller/index.html" afterPath="$PROJECT_DIR$/docs/equipment/realverb-pro-room-modeller/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/rosand-demension-d/index.html" afterPath="$PROJECT_DIR$/docs/equipment/rosand-demension-d/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/rosand-dimension-d/index.html" afterPath="$PROJECT_DIR$/docs/equipment/rosand-dimension-d/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/shadow-hills-mastering-compressor/index.html" afterPath="$PROJECT_DIR$/docs/equipment/shadow-hills-mastering-compressor/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/sound-machine-wood-works/index.html" afterPath="$PROJECT_DIR$/docs/equipment/sound-machine-wood-works/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/spl-transient-designer/index.html" afterPath="$PROJECT_DIR$/docs/equipment/spl-transient-designer/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/spl-vitaliser-mk2-t/index.html" afterPath="$PROJECT_DIR$/docs/equipment/spl-vitaliser-mk2-t/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/steinberg-wavelab-pro-9/index.html" afterPath="$PROJECT_DIR$/docs/equipment/steinberg-wavelab-pro-9/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/studer-a800/index.html" afterPath="$PROJECT_DIR$/docs/equipment/studer-a800/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/teletronix-la2/index.html" afterPath="$PROJECT_DIR$/docs/equipment/teletronix-la2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/teletronix-la2a-classic-leveler/index.html" afterPath="$PROJECT_DIR$/docs/equipment/teletronix-la2a-classic-leveler/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/thermotronic-culture-vulture/index.html" afterPath="$PROJECT_DIR$/docs/equipment/thermotronic-culture-vulture/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/ua-610b/index.html" afterPath="$PROJECT_DIR$/docs/equipment/ua-610b/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/uad-2-satellite-firewire-dsp-accelerator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/uad-2-satellite-firewire-dsp-accelerator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-1176ln-classic-limiting-amplifiers/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-1176ln-classic-limiting-amplifiers/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-apollo-interface/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-apollo-interface/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-precisin-enhanser-hz/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-precisin-enhanser-hz/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-precision-deesser/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-precision-deesser/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-precission-channel-strip/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-precission-channel-strip/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-precission-reflection-engine/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-precission-reflection-engine/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/univrsal-audio-precission-equaliser/index.html" afterPath="$PROJECT_DIR$/docs/equipment/univrsal-audio-precission-equaliser/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/yamaha-ms101-mkiii/index.html" afterPath="$PROJECT_DIR$/docs/equipment/yamaha-ms101-mkiii/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/yamaha-msp-10/index.html" afterPath="$PROJECT_DIR$/docs/equipment/yamaha-msp-10/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/ем%D1%82-250-digital-reverbrator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/ем%D1%82-250-digital-reverbrator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/емт-250-digital-reverbrator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/емт-250-digital-reverbrator/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/index.html" afterPath="$PROJECT_DIR$/docs/gallery/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/dj-rossko-need-your-love/index.html" afterPath="$PROJECT_DIR$/docs/gallery/dj-rossko-need-your-love/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/dj-tissue/index.html" afterPath="$PROJECT_DIR$/docs/gallery/dj-tissue/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/dryanovski-babi/index.html" afterPath="$PROJECT_DIR$/docs/gallery/dryanovski-babi/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/electric-pie-biagame/index.html" afterPath="$PROJECT_DIR$/docs/gallery/electric-pie-biagame/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/garo-ticket-to-uran/index.html" afterPath="$PROJECT_DIR$/docs/gallery/garo-ticket-to-uran/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/kanela-vinagi/index.html" afterPath="$PROJECT_DIR$/docs/gallery/kanela-vinagi/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/krassimir-avramov-keep-control/index.html" afterPath="$PROJECT_DIR$/docs/gallery/krassimir-avramov-keep-control/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/rossn-lorina-ilusion/index.html" afterPath="$PROJECT_DIR$/docs/gallery/rossn-lorina-ilusion/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/sofia-imash-izbor/index.html" afterPath="$PROJECT_DIR$/docs/gallery/sofia-imash-izbor/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/trolite/index.html" afterPath="$PROJECT_DIR$/docs/gallery/trolite/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/venci-drenikov-am-so-sad/index.html" afterPath="$PROJECT_DIR$/docs/gallery/venci-drenikov-am-so-sad/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/mastering/index.html" afterPath="$PROJECT_DIR$/docs/mastering/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/news-and-fun/1073-test/index.html" afterPath="$PROJECT_DIR$/docs/news-and-fun/1073-test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/news-and-fun/loudness-standards/index.html" afterPath="$PROJECT_DIR$/docs/news-and-fun/loudness-standards/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/news-and-fun/rdd-comparative-tests/index.html" afterPath="$PROJECT_DIR$/docs/news-and-fun/rdd-comparative-tests/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/news-and-fun/toxity-studio-welcome/index.html" afterPath="$PROJECT_DIR$/docs/news-and-fun/toxity-studio-welcome/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/news-and-fun/студийна-техника/index.html" afterPath="$PROJECT_DIR$/docs/news-and-fun/студийна-техника/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/services-prices/index.html" afterPath="$PROJECT_DIR$/docs/services-prices/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/services-prices/consultancy/index.html" afterPath="$PROJECT_DIR$/docs/services-prices/consultancy/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/services-prices/mastering-postproduction/index.html" afterPath="$PROJECT_DIR$/docs/services-prices/mastering-postproduction/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/services-prices/mixing/index.html" afterPath="$PROJECT_DIR$/docs/services-prices/mixing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/services-prices/recording-treatment/index.html" afterPath="$PROJECT_DIR$/docs/services-prices/recording-treatment/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/services-prices/reference-glass-master/index.html" afterPath="$PROJECT_DIR$/docs/services-prices/reference-glass-master/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/services-prices/sound-enhancement/index.html" afterPath="$PROJECT_DIR$/docs/services-prices/sound-enhancement/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/compressors/index.html" afterPath="$PROJECT_DIR$/docs/tag/compressors/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/compressors/page/2/index.html" afterPath="$PROJECT_DIR$/docs/tag/compressors/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/dinamics-edit/index.html" afterPath="$PROJECT_DIR$/docs/tag/dinamics-edit/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/dryanovski-babi/index.html" afterPath="$PROJECT_DIR$/docs/tag/dryanovski-babi/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/equalizers/index.html" afterPath="$PROJECT_DIR$/docs/tag/equalizers/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/equalizers/page/2/index.html" afterPath="$PROJECT_DIR$/docs/tag/equalizers/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/folk/index.html" afterPath="$PROJECT_DIR$/docs/tag/folk/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/master-voice/index.html" afterPath="$PROJECT_DIR$/docs/tag/master-voice/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/mastering/index.html" afterPath="$PROJECT_DIR$/docs/tag/mastering/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/mixing/index.html" afterPath="$PROJECT_DIR$/docs/tag/mixing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/monitors/index.html" afterPath="$PROJECT_DIR$/docs/tag/monitors/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/multi-effect-processors/index.html" afterPath="$PROJECT_DIR$/docs/tag/multi-effect-processors/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/neve-1073-channel-amplifier-plug-in/index.html" afterPath="$PROJECT_DIR$/docs/tag/neve-1073-channel-amplifier-plug-in/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/neve-1073lb/index.html" afterPath="$PROJECT_DIR$/docs/tag/neve-1073lb/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/postproduction/index.html" afterPath="$PROJECT_DIR$/docs/tag/postproduction/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/preamps-channelstrips/index.html" afterPath="$PROJECT_DIR$/docs/tag/preamps-channelstrips/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/production/index.html" afterPath="$PROJECT_DIR$/docs/tag/production/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/sound-recording/index.html" afterPath="$PROJECT_DIR$/docs/tag/sound-recording/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/special-devices/index.html" afterPath="$PROJECT_DIR$/docs/tag/special-devices/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/tests/index.html" afterPath="$PROJECT_DIR$/docs/tag/tests/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/глас-мастер/index.html" afterPath="$PROJECT_DIR$/docs/tag/глас-мастер/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/динамична-и-честотна-обработка/index.html" afterPath="$PROJECT_DIR$/docs/tag/динамична-и-честотна-обработка/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/дряновски-баби/index.html" afterPath="$PROJECT_DIR$/docs/tag/дряновски-баби/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/продукция/index.html" afterPath="$PROJECT_DIR$/docs/tag/продукция/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/сравнителни-тестове/index.html" afterPath="$PROJECT_DIR$/docs/tag/сравнителни-тестове/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tag/фолклор/index.html" afterPath="$PROJECT_DIR$/docs/tag/фолклор/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tips-and-tricks/basic-recording-rules/index.html" afterPath="$PROJECT_DIR$/docs/tips-and-tricks/basic-recording-rules/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tips-and-tricks/home-or-studio-recording/index.html" afterPath="$PROJECT_DIR$/docs/tips-and-tricks/home-or-studio-recording/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tips-and-tricks/home-recording-preparation/index.html" afterPath="$PROJECT_DIR$/docs/tips-and-tricks/home-recording-preparation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tips-and-tricks/mastering-preparation/index.html" afterPath="$PROJECT_DIR$/docs/tips-and-tricks/mastering-preparation/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tips-and-tricks/preparation-for-mixing/index.html" afterPath="$PROJECT_DIR$/docs/tips-and-tricks/preparation-for-mixing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/клиентите-за-нас/dj-rossko/index.html" afterPath="$PROJECT_DIR$/docs/клиентите-за-нас/dj-rossko/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/клиентите-за-нас/testimonials-венци-дреников/index.html" afterPath="$PROJECT_DIR$/docs/клиентите-за-нас/testimonials-венци-дреников/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/клиентите-за-нас/testimonials-цветан-ангелов/index.html" afterPath="$PROJECT_DIR$/docs/клиентите-за-нас/testimonials-цветан-ангелов/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/клиентите-за-нас/желязко-георгиев/index.html" afterPath="$PROJECT_DIR$/docs/клиентите-за-нас/желязко-георгиев/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/клиентите-за-нас/иво-гочев-big-mama-scandal/index.html" afterPath="$PROJECT_DIR$/docs/клиентите-за-нас/иво-гочев-big-mama-scandal/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <file path="/Dummy.txt" changelist="7e27b656-d034-465a-ae15-fadad4779220" time="1498270736755" ignored="false" />
+    <file path="/Dummy.txt" changelist="7e27b656-d034-465a-ae15-fadad4779220" time="1498271175809" ignored="false" />
     <file path="/index.html" changelist="7e27b656-d034-465a-ae15-fadad4779220" time="1498270455756" ignored="false" />
+    <file path="/a.dummy" changelist="7e27b656-d034-465a-ae15-fadad4779220" time="1498271417974" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +167,40 @@
     <favorites_list name="afsbg" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="48" selection-start="254" selection-end="259" vertical-scroll-proportion="0.065055765">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#6;n#ul#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#7;n#ul#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#section#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#section#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1498271392000" expanded="true" signature="12487:12640" placeholder="..." />
+                <marker date="1498271392000" expanded="true" signature="12580:12608" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -66,6 +241,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/docs/index.html" />
+        <option value="$PROJECT_DIR$/docs/about-studio1/index.html" />
       </list>
     </option>
   </component>
@@ -101,7 +277,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -136,6 +311,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
@@ -170,7 +346,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -183,6 +359,23 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7e27b656-d034-465a-ae15-fadad4779220" name="Default" comment="" />
@@ -210,19 +403,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Plugins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21504803" sideWeight="0.67022413" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Bitbucket Issues" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -235,12 +428,12 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -314,16 +507,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="47" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="47" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
@@ -350,8 +539,8 @@
             <element signature="n#style#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1498270672000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1498270672000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1498271392000" expanded="true" signature="12487:12640" placeholder="..." />
+            <marker date="1498271392000" expanded="true" signature="12580:12608" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -371,9 +560,29 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="2552" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/about-studio1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="71" selection-start="2195" selection-end="2265" vertical-scroll-proportion="0.58364314">
+          <folding>
+            <marker date="1498271392000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1498271392000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="57" selection-start="9968" selection-end="10667" vertical-scroll-proportion="0.19516729">
+        <state line="5" column="48" selection-start="254" selection-end="259" vertical-scroll-proportion="0.065055765">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -395,23 +604,9 @@
             <element signature="n#style#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1498270672000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1498270672000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1498271392000" expanded="true" signature="12487:12640" placeholder="..." />
+            <marker date="1498271392000" expanded="true" signature="12580:12608" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="2552" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
