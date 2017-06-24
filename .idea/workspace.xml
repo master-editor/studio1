@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e27b656-d034-465a-ae15-fadad4779220" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-1.png" afterPath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-1280x464.png" afterPath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-1280x464.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-150x54.png" afterPath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-150x54.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-700x254.png" afterPath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-700x254.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-768x279.png" afterPath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio-768x279.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio.png" afterPath="$PROJECT_DIR$/docs/wp-content/uploads/2016/05/Toxity-Studio.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,7 +48,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="50" selection-start="788" selection-end="788" vertical-scroll-proportion="0.19480519">
+            <state line="167" column="50" selection-start="10942" selection-end="10942" vertical-scroll-proportion="0.49586776">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -75,8 +70,8 @@
                 <element signature="n#style#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1498270455000" expanded="true" signature="12650:12803" placeholder="..." />
-                <marker date="1498270455000" expanded="true" signature="12743:12771" placeholder="..." />
+                <marker date="1498270672000" expanded="true" signature="12485:12638" placeholder="..." />
+                <marker date="1498270672000" expanded="true" signature="12578:12606" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -394,8 +389,8 @@
             <element signature="n#style#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1498270455000" expanded="true" signature="12650:12803" placeholder="..." />
-            <marker date="1498270455000" expanded="true" signature="12743:12771" placeholder="..." />
+            <marker date="1498270672000" expanded="true" signature="12485:12638" placeholder="..." />
+            <marker date="1498270672000" expanded="true" signature="12578:12606" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -431,7 +426,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="50" selection-start="788" selection-end="788" vertical-scroll-proportion="0.19480519">
+        <state line="167" column="50" selection-start="10942" selection-end="10942" vertical-scroll-proportion="0.49586776">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -453,8 +448,8 @@
             <element signature="n#style#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1498270455000" expanded="true" signature="12650:12803" placeholder="..." />
-            <marker date="1498270455000" expanded="true" signature="12743:12771" placeholder="..." />
+            <marker date="1498270672000" expanded="true" signature="12485:12638" placeholder="..." />
+            <marker date="1498270672000" expanded="true" signature="12578:12606" placeholder="..." />
           </folding>
         </state>
       </provider>
