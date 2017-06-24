@@ -1,73 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e27b656-d034-465a-ae15-fadad4779220" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/index 2.html" afterPath="$PROJECT_DIR$/docs/equipment/index 2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/index.html" afterPath="$PROJECT_DIR$/docs/equipment/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/1176-classic-limiter-collection/index.html" afterPath="$PROJECT_DIR$/docs/equipment/1176-classic-limiter-collection/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/1457-2/index.html" afterPath="$PROJECT_DIR$/docs/equipment/1457-2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/1503-2/index.html" afterPath="$PROJECT_DIR$/docs/equipment/1503-2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/ampex-atr-102-mastering-tape-recorder_/index.html" afterPath="$PROJECT_DIR$/docs/equipment/ampex-atr-102-mastering-tape-recorder_/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/brainworx-digital-v2/index.html" afterPath="$PROJECT_DIR$/docs/equipment/brainworx-digital-v2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/brainworx-digital-v3/index.html" afterPath="$PROJECT_DIR$/docs/equipment/brainworx-digital-v3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/cooper-time-cube-delay/index.html" afterPath="$PROJECT_DIR$/docs/equipment/cooper-time-cube-delay/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/cubase-pro-9/index.html" afterPath="$PROJECT_DIR$/docs/equipment/cubase-pro-9/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/dreamverb-room-modeller/index.html" afterPath="$PROJECT_DIR$/docs/equipment/dreamverb-room-modeller/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/emt-140-claccic-plate-reverbrator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/emt-140-claccic-plate-reverbrator/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/fairchild-tube-limiter-660-670/index.html" afterPath="$PROJECT_DIR$/docs/equipment/fairchild-tube-limiter-660-670/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/fatso-jr-sr-compressor-and-saturator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/fatso-jr-sr-compressor-and-saturator/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/helios-type-69-eq/index.html" afterPath="$PROJECT_DIR$/docs/equipment/helios-type-69-eq/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/joemeek-oneq-studio-channel/index.html" afterPath="$PROJECT_DIR$/docs/equipment/joemeek-oneq-studio-channel/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/la2a-silver-grey/index.html" afterPath="$PROJECT_DIR$/docs/equipment/la2a-silver-grey/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/lexicon-224-digital-reverbrator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/lexicon-224-digital-reverbrator/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/little-labs-ibp/index.html" afterPath="$PROJECT_DIR$/docs/equipment/little-labs-ibp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/little-labs-vog/index.html" afterPath="$PROJECT_DIR$/docs/equipment/little-labs-vog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/manley-massive-passive-tube-equaliser/index.html" afterPath="$PROJECT_DIR$/docs/equipment/manley-massive-passive-tube-equaliser/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/manley-massive-passive-tube-mixing-equaliser/index.html" afterPath="$PROJECT_DIR$/docs/equipment/manley-massive-passive-tube-mixing-equaliser/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/mxr-flanger-doubler/index.html" afterPath="$PROJECT_DIR$/docs/equipment/mxr-flanger-doubler/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/neve-1073-channel-amplifier-and-eq/index.html" afterPath="$PROJECT_DIR$/docs/equipment/neve-1073-channel-amplifier-and-eq/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/neve-33609-compressor/index.html" afterPath="$PROJECT_DIR$/docs/equipment/neve-33609-compressor/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/neve-88rs-channel-strip/index.html" afterPath="$PROJECT_DIR$/docs/equipment/neve-88rs-channel-strip/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/neve-88rs-channel-strip-1/index.html" afterPath="$PROJECT_DIR$/docs/equipment/neve-88rs-channel-strip-1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/precision-delay-modulation/index.html" afterPath="$PROJECT_DIR$/docs/equipment/precision-delay-modulation/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/precision-limiter/index.html" afterPath="$PROJECT_DIR$/docs/equipment/precision-limiter/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/precision-multiband/index.html" afterPath="$PROJECT_DIR$/docs/equipment/precision-multiband/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/pultec-eqp-1a/index.html" afterPath="$PROJECT_DIR$/docs/equipment/pultec-eqp-1a/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/pultec-meq-5/index.html" afterPath="$PROJECT_DIR$/docs/equipment/pultec-meq-5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/pultec-passive-eq-plug-collection/index.html" afterPath="$PROJECT_DIR$/docs/equipment/pultec-passive-eq-plug-collection/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/realverb-pro-room-modeller/index.html" afterPath="$PROJECT_DIR$/docs/equipment/realverb-pro-room-modeller/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/rosand-demension-d/index.html" afterPath="$PROJECT_DIR$/docs/equipment/rosand-demension-d/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/rosand-dimension-d/index.html" afterPath="$PROJECT_DIR$/docs/equipment/rosand-dimension-d/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/shadow-hills-mastering-compressor/index.html" afterPath="$PROJECT_DIR$/docs/equipment/shadow-hills-mastering-compressor/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/sound-machine-wood-works/index.html" afterPath="$PROJECT_DIR$/docs/equipment/sound-machine-wood-works/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/spl-transient-designer/index.html" afterPath="$PROJECT_DIR$/docs/equipment/spl-transient-designer/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/spl-vitaliser-mk2-t/index.html" afterPath="$PROJECT_DIR$/docs/equipment/spl-vitaliser-mk2-t/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/steinberg-wavelab-pro-9/index.html" afterPath="$PROJECT_DIR$/docs/equipment/steinberg-wavelab-pro-9/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/studer-a800/index.html" afterPath="$PROJECT_DIR$/docs/equipment/studer-a800/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/teletronix-la2/index.html" afterPath="$PROJECT_DIR$/docs/equipment/teletronix-la2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/teletronix-la2a-classic-leveler/index.html" afterPath="$PROJECT_DIR$/docs/equipment/teletronix-la2a-classic-leveler/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/thermotronic-culture-vulture/index.html" afterPath="$PROJECT_DIR$/docs/equipment/thermotronic-culture-vulture/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/ua-610b/index.html" afterPath="$PROJECT_DIR$/docs/equipment/ua-610b/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/uad-2-satellite-firewire-dsp-accelerator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/uad-2-satellite-firewire-dsp-accelerator/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-1176ln-classic-limiting-amplifiers/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-1176ln-classic-limiting-amplifiers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-apollo-interface/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-apollo-interface/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-precisin-enhanser-hz/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-precisin-enhanser-hz/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-precision-deesser/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-precision-deesser/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-precission-channel-strip/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-precission-channel-strip/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/universal-audio-precission-reflection-engine/index.html" afterPath="$PROJECT_DIR$/docs/equipment/universal-audio-precission-reflection-engine/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/univrsal-audio-precission-equaliser/index.html" afterPath="$PROJECT_DIR$/docs/equipment/univrsal-audio-precission-equaliser/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/yamaha-ms101-mkiii/index.html" afterPath="$PROJECT_DIR$/docs/equipment/yamaha-ms101-mkiii/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/yamaha-msp-10/index.html" afterPath="$PROJECT_DIR$/docs/equipment/yamaha-msp-10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/equipment/ем%D1%82-250-digital-reverbrator/index.html" afterPath="$PROJECT_DIR$/docs/equipment/ем%D1%82-250-digital-reverbrator/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/garo-ticket-to-uran/index.html" afterPath="$PROJECT_DIR$/docs/gallery/garo-ticket-to-uran/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gallery/sofia-imash-izbor/index.html" afterPath="$PROJECT_DIR$/docs/gallery/sofia-imash-izbor/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7e27b656-d034-465a-ae15-fadad4779220" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <file path="/Dummy.txt" changelist="7e27b656-d034-465a-ae15-fadad4779220" time="1498271657364" ignored="false" />
     <file path="/index.html" changelist="7e27b656-d034-465a-ae15-fadad4779220" time="1498271912279" ignored="false" />
-    <file path="/a.dummy" changelist="7e27b656-d034-465a-ae15-fadad4779220" time="1498272144082" ignored="false" />
+    <file path="/a.dummy" changelist="7e27b656-d034-465a-ae15-fadad4779220" time="1498272185767" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +72,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/equipment/1176-classic-limiter-collection/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="79" selection-start="2970" selection-end="2970" vertical-scroll-proportion="0.58614564">
+            <state line="48" column="68" selection-start="3039" selection-end="3044" vertical-scroll-proportion="0.6127886">
               <folding />
             </state>
           </provider>
@@ -591,7 +529,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/equipment/1176-classic-limiter-collection/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="79" selection-start="2970" selection-end="2970" vertical-scroll-proportion="0.58614564">
+        <state line="48" column="68" selection-start="3039" selection-end="3044" vertical-scroll-proportion="0.6127886">
           <folding />
         </state>
       </provider>
